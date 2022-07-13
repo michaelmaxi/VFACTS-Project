@@ -1,0 +1,739 @@
+Year,Month,Category,Electric,Make,Model,Customer Category,Qty
+2022,June,Micro,FALSE,Fiat,500/Abarth,Private,4
+2022,June,Micro,FALSE,Kia,Picanto,Private,20
+2022,June,Micro,FALSE,Kia,Picanto,Rental,39
+2022,June,Micro,FALSE,Kia,Picanto,Fleet,2
+2022,June,Micro,FALSE,Kia,Picanto,59 (Unknown),1
+2022,June,Micro,FALSE,Mitsubishi,Mirage,Private,6
+2022,June,Micro,FALSE,Mitsubishi,Mirage,Rental,3
+2022,June,Light < $25k,FALSE,Hyundai,i20,Private,1
+2022,June,Light < $25k,FALSE,Kia,Rio,Private,34
+2022,June,Light < $25k,FALSE,Kia,Rio,Rental,5
+2022,June,Light < $25k,FALSE,Kia,Rio,Fleet,3
+2022,June,Light < $25k,FALSE,Kia,Rio,59 (Unknown),1
+2022,June,Light < $25k,FALSE,Mazda,Mazda 2,Private,23
+2022,June,Light < $25k,FALSE,Mazda,Mazda 2,Fleet,9
+2022,June,Light < $25k,FALSE,Mazda,Mazda 2,59 (Unknown),5
+2022,June,Light < $25k,FALSE,MG,MG 3,Private,155
+2022,June,Light < $25k,FALSE,MG,MG 3,Rental,18
+2022,June,Light < $25k,FALSE,MG,MG 3,Company Capitalisation,1
+2022,June,Light < $25k,FALSE,MG,MG 3,Fleet,27
+2022,June,Light < $25k,FALSE,MG,MG 3,59 (Unknown),4
+2022,June,Light < $25k,FALSE,Skoda,Fabia,Private,0
+2022,June,Light < $25k,FALSE,Skoda,Fabia,Fleet,1
+2022,June,Light < $25k,FALSE,Suzuki,Baleno,Private,20
+2022,June,Light < $25k,FALSE,Suzuki,Baleno,Fleet,5
+2022,June,Light < $25k,FALSE,Suzuki,Baleno,59 (Unknown),2
+2022,June,Light < $25k,FALSE,Suzuki,Swift,Private,48
+2022,June,Light < $25k,FALSE,Suzuki,Swift,Fleet,8
+2022,June,Light < $25k,FALSE,Suzuki,Swift,59 (Unknown),2
+2022,June,Light < $25k,FALSE,Toyota,Yaris,Private,10
+2022,June,Light < $25k,FALSE,Toyota,Yaris,Rental,10
+2022,June,Light < $25k,FALSE,Toyota,Yaris,Fleet - Large,1
+2022,June,Light < $25k,FALSE,Toyota,Yaris,Fleet,3
+2022,June,Light < $25k,FALSE,Toyota,Yaris,59 (Unknown),1
+2022,June,Light < $25k,FALSE,Volkswagen,Polo,Private,12
+2022,June,Light < $25k,FALSE,Volkswagen,Polo,Fleet,2
+2022,June,Light < $25k,FALSE,Volkswagen,Polo,59 (Unknown),1
+2022,June,Light > $25k,FALSE,Audi,A1,Private,3
+2022,June,Light > $25k,FALSE,Audi,A1,Fleet,2
+2022,June,Light > $25k,FALSE,Audi,A1,59 (Unknown),1
+2022,June,Light > $25k,FALSE,Mini,Mini Hatch,Private,18
+2022,June,Light > $25k,FALSE,Mini,Mini Hatch,Fleet,1
+2022,June,Light > $25k,FALSE,Mini,Mini Hatch,59 (Unknown),1
+2022,June,Small < $40k,FALSE,Ford,Focus,Private,2
+2022,June,Small < $40k,FALSE,Honda,Civic,Private,7
+2022,June,Small < $40k,FALSE,Honda,Civic,Fleet,1
+2022,June,Small < $40k,FALSE,Hyundai,i30,Private,156
+2022,June,Small < $40k,FALSE,Hyundai,i30,Government - State,6
+2022,June,Small < $40k,FALSE,Hyundai,i30,Rental,12
+2022,June,Small < $40k,FALSE,Hyundai,i30,Fleet,58
+2022,June,Small < $40k,FALSE,Hyundai,i30,59 (Unknown),2
+2022,June,Small < $40k,TRUE,Hyundai,Ioniq,Private,2
+2022,June,Small < $40k,TRUE,Hyundai,Ioniq,Government - State,1
+2022,June,Small < $40k,TRUE,Hyundai,Ioniq,Government - Local,10
+2022,June,Small < $40k,TRUE,Hyundai,Ioniq,Fleet,1
+2022,June,Small < $40k,TRUE,Hyundai,Ioniq,59 (Unknown),1
+2022,June,Small < $40k,FALSE,Kia,Cerato,Private,95
+2022,June,Small < $40k,FALSE,Kia,Cerato,Rental,3
+2022,June,Small < $40k,FALSE,Kia,Cerato,Fleet - Large,1
+2022,June,Small < $40k,FALSE,Kia,Cerato,Fleet,10
+2022,June,Small < $40k,FALSE,Mazda,Mazda 3,Private,50
+2022,June,Small < $40k,FALSE,Mazda,Mazda 3,Fleet,10
+2022,June,Small < $40k,FALSE,Mazda,Mazda 3,59 (Unknown),5
+2022,June,Small < $40k,FALSE,Skoda,Scala,Private,1
+2022,June,Small < $40k,FALSE,Skoda,Scala,Fleet,3
+2022,June,Small < $40k,FALSE,Skoda,Scala,59 (Unknown),3
+2022,June,Small < $40k,FALSE,Subaru,Impreza,Private,18
+2022,June,Small < $40k,FALSE,Subaru,Impreza,Fleet,10
+2022,June,Small < $40k,FALSE,Subaru,WRX,Private,3
+2022,June,Small < $40k,FALSE,Subaru,WRX,Fleet,4
+2022,June,Small < $40k,FALSE,Toyota,Corolla,Private,91
+2022,June,Small < $40k,FALSE,Toyota,Corolla,Rental,17
+2022,June,Small < $40k,FALSE,Toyota,Corolla,Not For Profit,2
+2022,June,Small < $40k,FALSE,Toyota,Corolla,Fleet - Large,5
+2022,June,Small < $40k,FALSE,Toyota,Corolla,Fleet,15
+2022,June,Small < $40k,FALSE,Toyota,Corolla,59 (Unknown),6
+2022,June,Small < $40k,FALSE,Volkswagen,Golf,Private,14
+2022,June,Small < $40k,FALSE,Volkswagen,Golf,Fleet,1
+2022,June,Small < $40k,FALSE,Volkswagen,Golf,59 (Unknown),1
+2022,June,Small > $40k,FALSE,Audi,A3,Private,6
+2022,June,Small > $40k,FALSE,Audi,A3,Fleet,7
+2022,June,Small > $40k,FALSE,Audi,A3,59 (Unknown),2
+2022,June,Small > $40k,FALSE,BMW,1 Series,Private,7
+2022,June,Small > $40k,FALSE,BMW,1 Series,Fleet,5
+2022,June,Small > $40k,FALSE,BMW,1 Series,59 (Unknown),5
+2022,June,Small > $40k,FALSE,BMW,2 Series Gran Coupe,Private,7
+2022,June,Small > $40k,FALSE,BMW,2 Series Gran Coupe,Fleet,2
+2022,June,Small > $40k,FALSE,BMW,2 Series Gran Coupe,59 (Unknown),2
+2022,June,Small > $40k,FALSE,Mercedes-Benz,A-Class,Private,12
+2022,June,Small > $40k,FALSE,Mercedes-Benz,A-Class,Fleet,5
+2022,June,Small > $40k,FALSE,Mini,Clubman,Private,4
+2022,June,Small > $40k,TRUE,Nissan,Leaf,Private,2
+2022,June,Medium < $60k,FALSE,Honda,Accord,Private,1
+2022,June,Medium < $60k,FALSE,Hyundai,Sonata,Private,5
+2022,June,Medium < $60k,FALSE,Hyundai,Sonata,Fleet,1
+2022,June,Medium < $60k,FALSE,Hyundai,Sonata,59 (Unknown),1
+2022,June,Medium < $60k,FALSE,Mazda,Mazda 6,Private,3
+2022,June,Medium < $60k,FALSE,Mazda,Mazda 6,Fleet,1
+2022,June,Medium < $60k,FALSE,Mazda,Mazda 6,59 (Unknown),1
+2022,June,Medium < $60k,FALSE,Peugeot,508,Private,1
+2022,June,Medium < $60k,FALSE,Skoda,Octavia,Private,1
+2022,June,Medium < $60k,FALSE,Skoda,Octavia,Fleet,7
+2022,June,Medium < $60k,FALSE,Skoda,Octavia,59 (Unknown),7
+2022,June,Medium < $60k,FALSE,Toyota,Camry,Private,23
+2022,June,Medium < $60k,FALSE,Toyota,Camry,Fleet,9
+2022,June,Medium < $60k,FALSE,Volkswagen,Passat,Private,1
+2022,June,Medium > $60k,FALSE,Audi,A4,Private,2
+2022,June,Medium > $60k,FALSE,Audi,A4,Fleet,4
+2022,June,Medium > $60k,FALSE,Audi,A4,59 (Unknown),4
+2022,June,Medium > $60k,FALSE,Audi,A5 Sportback,Private,1
+2022,June,Medium > $60k,FALSE,Audi,A5 Sportback,Fleet,3
+2022,June,Medium > $60k,FALSE,Audi,A5 Sportback,59 (Unknown),1
+2022,June,Medium > $60k,FALSE,BMW,3 Series,Private,15
+2022,June,Medium > $60k,FALSE,BMW,3 Series,Fleet,2
+2022,June,Medium > $60k,FALSE,BMW,3 Series,59 (Unknown),2
+2022,June,Medium > $60k,FALSE,BMW,4 Series Gran Coupe,Private,5
+2022,June,Medium > $60k,FALSE,BMW,4 Series Gran Coupe,Fleet,1
+2022,June,Medium > $60k,FALSE,BMW,4 Series Gran Coupe,59 (Unknown),1
+2022,June,Medium > $60k,FALSE,Jaguar,XE,Private,2
+2022,June,Medium > $60k,FALSE,Jaguar,XE,Fleet,1
+2022,June,Medium > $60k,FALSE,Lexus,ES,Private,2
+2022,June,Medium > $60k,FALSE,Lexus,ES,Fleet,8
+2022,June,Medium > $60k,FALSE,Lexus,ES,59 (Unknown),6
+2022,June,Medium > $60k,FALSE,Mercedes-Benz,C-Class,Private,15
+2022,June,Medium > $60k,FALSE,Mercedes-Benz,C-Class,Fleet,6
+2022,June,Medium > $60k,FALSE,Mercedes-Benz,CLA-Class,Private,7
+2022,June,Medium > $60k,FALSE,Mercedes-Benz,CLA-Class,Fleet,5
+2022,June,Medium > $60k,FALSE,Polestar,Polestar 2,Private,3
+2022,June,Medium > $60k,FALSE,Tesla,Model 3,Private,86
+2022,June,Medium > $60k,FALSE,Tesla,Model 3,Fleet,46
+2022,June,Medium > $60k,FALSE,Volkswagen,Arteon,Private,1
+2022,June,Medium > $60k,FALSE,Volkswagen,Arteon,Fleet,1
+2022,June,Medium > $60k,FALSE,Volvo,S60,Private,3
+2022,June,Medium > $60k,FALSE,Volvo,S60,Fleet,1
+2022,June,Medium > $60k,FALSE,Volvo,S60,59 (Unknown),1
+2022,June,Medium > $60k,FALSE,Volvo,V60 Cross Country,Private,1
+2022,June,Medium > $60k,FALSE,Volvo,V60 Cross Country,Fleet,1
+2022,June,Medium > $60k,FALSE,Volvo,V60 Cross Country,59 (Unknown),1
+2022,June,Large < $70k,FALSE,Kia,Stinger,Private,18
+2022,June,Large < $70k,FALSE,Kia,Stinger,Fleet,8
+2022,June,Large < $70k,FALSE,Kia,Stinger,59 (Unknown),2
+2022,June,Large < $70k,FALSE,Skoda,Superb,Private,1
+2022,June,Large < $70k,FALSE,Skoda,Superb,Fleet,3
+2022,June,Large < $70k,FALSE,Skoda,Superb,59 (Unknown),3
+2022,June,Large > $70k,FALSE,Audi,A6,Private,0
+2022,June,Large > $70k,FALSE,Audi,A6,Fleet,5
+2022,June,Large > $70k,FALSE,Audi,A6,59 (Unknown),4
+2022,June,Large > $70k,FALSE,Audi,A7,Private,0
+2022,June,Large > $70k,FALSE,Audi,A7,Fleet,1
+2022,June,Large > $70k,FALSE,Audi,A7,59 (Unknown),1
+2022,June,Large > $70k,FALSE,BMW,5 Series,Private,3
+2022,June,Large > $70k,FALSE,BMW,5 Series,Fleet,1
+2022,June,Large > $70k,FALSE,BMW,5 Series,59 (Unknown),1
+2022,June,Large > $70k,FALSE,Genesis,G80,Private,0
+2022,June,Large > $70k,FALSE,Genesis,G80,Fleet,1
+2022,June,Large > $70k,FALSE,Maserati,Ghibli,Private,2
+2022,June,Large > $70k,FALSE,Maserati,Ghibli,Fleet,3
+2022,June,Large > $70k,FALSE,Maserati,Ghibli,59 (Unknown),3
+2022,June,Large > $70k,FALSE,Mercedes-Benz,E-Class,Private,0
+2022,June,Large > $70k,FALSE,Mercedes-Benz,E-Class,Fleet,1
+2022,June,Large > $70k,TRUE,Porsche,Taycan,Private,8
+2022,June,Large > $70k,TRUE,Porsche,Taycan,Fleet,3
+2022,June,Large > $70k,TRUE,Porsche,Taycan,59 (Unknown),3
+2022,June,Upper Large < $100k,FALSE,Chrysler,Chrysler 300,Private,0
+2022,June,Upper Large < $100k,FALSE,Chrysler,Chrysler 300,Fleet,1
+2022,June,Upper Large < $100k,FALSE,Chrysler,Chrysler 300,59 (Unknown),1
+2022,June,Upper Large > $100k,FALSE,Bentley,Bentley Sedan,Private,1
+2022,June,Upper Large > $100k,FALSE,BMW,7 Series,Private,1
+2022,June,Upper Large > $100k,FALSE,BMW,8 Series Gran Coupe,Private,1
+2022,June,Upper Large > $100k,FALSE,Lexus,Lexus LS,Private,1
+2022,June,Upper Large > $100k,FALSE,Mercedes-Benz,S-Class,Private,4
+2022,June,Upper Large > $100k,FALSE,Mercedes-Benz,S-Class,Fleet,1
+2022,June,Upper Large > $100k,FALSE,Porsche,Panamera,Private,1
+2022,June,People Movers < $60k,FALSE,Honda,Odyssey,Private,10
+2022,June,People Movers < $60k,FALSE,Hyundai,Staria,Private,10
+2022,June,People Movers < $60k,FALSE,Hyundai,Staria,Rental,6
+2022,June,People Movers < $60k,FALSE,Hyundai,Staria,Fleet,4
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,Private,22
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,Government - State,1
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,Rental,52
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,Fleet - Large,16
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,Fleet,2
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,59 (Unknown),1
+2022,June,People Movers < $60k,FALSE,LDV,G10 Wagon,Private,2
+2022,June,People Movers < $60k,FALSE,LDV,G10 Wagon,Fleet,7
+2022,June,People Movers < $60k,FALSE,Volkswagen,Caddy,Private,1
+2022,June,People Movers > $60k,FALSE,Mercedes-Benz,V-Class,Private,3
+2022,June,People Movers > $60k,FALSE,Mercedes-Benz,V-Class,Fleet,3
+2022,June,People Movers > $60k,FALSE,Mercedes-Benz,Valente,Private,1
+2022,June,People Movers > $60k,FALSE,Mercedes-Benz,Valente,Fleet,1
+2022,June,People Movers > $60k,FALSE,Toyota,Granvia,Private,0
+2022,June,People Movers > $60k,FALSE,Toyota,Granvia,Fleet,1
+2022,June,Sports < $80k,FALSE,BMW,2 Series Gran Coupe / Convertable,Private,2
+2022,June,Sports < $80k,FALSE,BMW,2 Series Gran Coupe / Convertable,Fleet,2
+2022,June,Sports < $80k,FALSE,BMW,2 Series Gran Coupe / Convertable,59 (Unknown),2
+2022,June,Sports < $80k,FALSE,Ford,Mustang,Private,15
+2022,June,Sports < $80k,FALSE,Mazda,MX-5,Private,3
+2022,June,Sports < $80k,FALSE,MINI,Mini Cabrio,Private,7
+2022,June,Sports < $80k,FALSE,Subaru,BRZ,Private,8
+2022,June,Sports < $80k,FALSE,Subaru,BRZ,Fleet,1
+2022,June,Sports > $80k,FALSE,Audi,A5,Private,0
+2022,June,Sports > $80k,FALSE,Audi,A5,Fleet,2
+2022,June,Sports > $80k,FALSE,Audi,A5,59 (Unknown),1
+2022,June,Sports > $80k,FALSE,BMW,4 Series Coupe / Convertable,Private,10
+2022,June,Sports > $80k,FALSE,BMW,Z4,Private,1
+2022,June,Sports > $80k,FALSE,Chevrolet,Corvette Stingray,Private,1
+2022,June,Sports > $80k,FALSE,Jaguar,F-Type,Private,1
+2022,June,Sports > $80k,FALSE,Mercedes-Benz,C-Class Coupe / Convertable,Private,4
+2022,June,Sports > $80k,FALSE,Mercedes-Benz,C-Class Coupe / Convertable,Fleet,4
+2022,June,Sports > $80k,FALSE,Mercedes-Benz,E-Class Coupe / Convertable,Private,1
+2022,June,Sports > $80k,FALSE,Porsche,Boxster,Private,0
+2022,June,Sports > $80k,FALSE,Porsche,Boxster,Fleet,1
+2022,June,Sports > $80k,FALSE,Porsche,Boxster,59 (Unknown),1
+2022,June,Sports > $80k,FALSE,Porsche,Cayman,Private,2
+2022,June,Sports > $80k,FALSE,Toyota,Supra,Private,1
+2022,June,Sports > $200k,FALSE,Aston Martin,Aston Coupe / Convertable,Private,2
+2022,June,Sports > $200k,FALSE,Aston Martin,Aston Coupe / Convertable,Fleet,3
+2022,June,Sports > $200k,FALSE,Aston Martin,Aston Coupe / Convertable,59 (Unknown),3
+2022,June,Sports > $200k,FALSE,Bentley,Bently Coupe / Convertable,Private,5
+2022,June,Sports > $200k,FALSE,BMW,8 Series,Private,1
+2022,June,Sports > $200k,FALSE,Ferrari,Ferrari Coupe / Convertable,Private,4
+2022,June,Sports > $200k,FALSE,McLaren,McLaren Coupe / Convertable,Private,4
+2022,June,Sports > $200k,FALSE,Porsche,911,Private,11
+2022,June,Sports > $200k,FALSE,Porsche,911,Fleet,2
+2022,June,Sports > $200k,FALSE,Porsche,911,59 (Unknown),2
+2022,June,SUV Light,FALSE,Ford,Puma,Private,1
+2022,June,SUV Light,FALSE,Ford,Puma,Not For Profit,6
+2022,June,SUV Light,FALSE,Ford,Puma,Fleet,9
+2022,June,SUV Light,FALSE,Ford,Puma,59 (Unknown),9
+2022,June,SUV Light,FALSE,Hyundai,Venue,Private,51
+2022,June,SUV Light,FALSE,Hyundai,Venue,Government - State,5
+2022,June,SUV Light,FALSE,Hyundai,Venue,Rental,37
+2022,June,SUV Light,FALSE,Hyundai,Venue,Fleet,1
+2022,June,SUV Light,FALSE,Hyundai,Venue,59 (Unknown),1
+2022,June,SUV Light,FALSE,Kia,Stonic,Private,37
+2022,June,SUV Light,FALSE,Kia,Stonic,Rental,57
+2022,June,SUV Light,FALSE,Kia,Stonic,Fleet,3
+2022,June,SUV Light,FALSE,Kia,Stonic,59 (Unknown),2
+2022,June,SUV Light,FALSE,Mazda,CX-3,Private,71
+2022,June,SUV Light,FALSE,Mazda,CX-3,Fleet,12
+2022,June,SUV Light,FALSE,Mazda,CX-3,59 (Unknown),4
+2022,June,SUV Light,FALSE,Nissan,Juke,Private,7
+2022,June,SUV Light,FALSE,Nissan,Juke,Fleet - Large,1
+2022,June,SUV Light,FALSE,Nissan,Juke,Fleet,5
+2022,June,SUV Light,FALSE,Nissan,Juke,59 (Unknown),3
+2022,June,SUV Light,FALSE,Renault,Captur,Private,6
+2022,June,SUV Light,FALSE,Renault,Captur,Fleet,4
+2022,June,SUV Light,FALSE,Renault,Captur,59 (Unknown),4
+2022,June,SUV Light,FALSE,Suzuki,Ignis,Private,7
+2022,June,SUV Light,FALSE,Suzuki,Ignis,Fleet,2
+2022,June,SUV Light,FALSE,Suzuki,Ignis,59 (Unknown),1
+2022,June,SUV Light,FALSE,Suzuki,Jimny,Private,14
+2022,June,SUV Light,FALSE,Suzuki,Jimny,Fleet,4
+2022,June,SUV Light,FALSE,Suzuki,Jimny,59 (Unknown),2
+2022,June,SUV Light,FALSE,Toyota,Yaris Cross,Private,42
+2022,June,SUV Light,FALSE,Toyota,Yaris Cross,Rental,10
+2022,June,SUV Light,FALSE,Toyota,Yaris Cross,Not For Profit,3
+2022,June,SUV Light,FALSE,Toyota,Yaris Cross,Fleet - Large,1
+2022,June,SUV Light,FALSE,Toyota,Yaris Cross,Fleet,9
+2022,June,SUV Light,FALSE,Volkswagen,T-Cross,Private,35
+2022,June,SUV Light,FALSE,Volkswagen,T-Cross,Fleet,1
+2022,June,SUV Small < $40k,FALSE,GWM,Haval Jolion,Private,71
+2022,June,SUV Small < $40k,FALSE,GVM,Haval Jolion,Rental,1
+2022,June,SUV Small < $40k,FALSE,GVM,Haval Jolion,Fleet,7
+2022,June,SUV Small < $40k,FALSE,GVM,Haval Jolion,59 (Unknown),2
+2022,June,SUV Small < $40k,FALSE,Honda,HR-V,Private,52
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,Private,85
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,Government - State,12
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,Government - Local,1
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,Rental,3
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,Fleet - Large,1
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,Fleet,7
+2022,June,SUV Small < $40k,FALSE,Hyundai,kona,59 (Unknown),2
+2022,June,SUV Small < $40k,FALSE,Jeep,Compass,Private,3
+2022,June,SUV Small < $40k,FALSE,Jeep,Compass,Fleet,22
+2022,June,SUV Small < $40k,FALSE,Jeep,Compass,59 (Unknown),21
+2022,June,SUV Small < $40k,FALSE,Kia,Niro,Private,4
+2022,June,SUV Small < $40k,TRUE,Kia,Niro,Fleet,2
+2022,June,SUV Small < $40k,TRUE,Kia,Niro,59 (Unknown),2
+2022,June,SUV Small < $40k,FALSE,Kia,Seltos,Private,69
+2022,June,SUV Small < $40k,FALSE,Kia,Seltos,Fleet,4
+2022,June,SUV Small < $40k,FALSE,Mazda,CX-30,Private,102
+2022,June,SUV Small < $40k,FALSE,Mazda,CX-30,Fleet,20
+2022,June,SUV Small < $40k,FALSE,Mazda,CX-30,59 (Unknown),8
+2022,June,SUV Small < $40k,FALSE,Mazda,MX-30,Private,3
+2022,June,SUV Small < $40k,FALSE,Mazda,MX-30,Fleet,1
+2022,June,SUV Small < $40k,FALSE,Mazda,MX-30,59 (Unknown),1
+2022,June,SUV Small < $40k,FALSE,MG,MG ZS,Private,212
+2022,June,SUV Small < $40k,FALSE,MG,MG ZS,Not For Profit,5
+2022,June,SUV Small < $40k,FALSE,MG,MG ZS,Fleet,19
+2022,June,SUV Small < $40k,FALSE,MG,MG ZS,59 (Unknown),8
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,Private,44
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,Rental,8
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,Not For Profit,17
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,Fleet - Large,17
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,Fleet,13
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,59 (Unknown),3
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,Private,22
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,Rental,3
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,Not For Profit,2
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,Fleet - Large,10
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,Fleet,15
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,59 (Unknown),1
+2022,June,SUV Small < $40k,FALSE,Peugeot,2008,Private,1
+2022,June,SUV Small < $40k,FALSE,Peugeot,2008,Fleet,2
+2022,June,SUV Small < $40k,FALSE,Peugeot,2008,59 (Unknown),2
+2022,June,SUV Small < $40k,FALSE,Renault,Renault Arkana,Private,11
+2022,June,SUV Small < $40k,FALSE,Renault,Renault Arkana,Fleet,4
+2022,June,SUV Small < $40k,FALSE,Renault,Renault Arkana,59 (Unknown),4
+2022,June,SUV Small < $40k,FALSE,Skoda,Kamiq,Private,6
+2022,June,SUV Small < $40k,FALSE,Skoda,Kamiq,Fleet,8
+2022,June,SUV Small < $40k,FALSE,Skoda,Kamiq,59 (Unknown),8
+2022,June,SUV Small < $40k,FALSE,Subaru,Subaru XV,Private,42
+2022,June,SUV Small < $40k,FALSE,Subaru,Subaru XV,Fleet,7
+2022,June,SUV Small < $40k,FALSE,Suzuki,Vitara,Private,7
+2022,June,SUV Small < $40k,FALSE,Toyota,C-HR,Private,46
+2022,June,SUV Small < $40k,FALSE,Toyota,C-HR,Fleet,6
+2022,June,SUV Small < $40k,FALSE,Toyota,C-HR,59 (Unknown),1
+2022,June,SUV Small < $40k,FALSE,Volkswagen,T-Roc,Private,12
+2022,June,SUV Small < $40k,FALSE,Volkswagen,T-Roc,Fleet - Large,1
+2022,June,SUV Small < $40k,FALSE,Volkswagen,T-Roc,Fleet,1
+2022,June,SUV Small > $40k,FALSE,Audi,Q2,Private,2
+2022,June,SUV Small > $40k,FALSE,Audi,Q2,Fleet,1
+2022,June,SUV Small > $40k,FALSE,Audi,Q3,Private,25
+2022,June,SUV Small > $40k,FALSE,Audi,Q3,Fleet,9
+2022,June,SUV Small > $40k,FALSE,Audi,Q3,59 (Unknown),1
+2022,June,SUV Small > $40k,FALSE,BMW,X1,Private,28
+2022,June,SUV Small > $40k,FALSE,BMW,X1,Fleet,2
+2022,June,SUV Small > $40k,FALSE,BMW,X1,59 (Unknown),2
+2022,June,SUV Small > $40k,FALSE,BMW,X2,Private,5
+2022,June,SUV Small > $40k,FALSE,BMW,X2,Fleet,1
+2022,June,SUV Small > $40k,FALSE,BMW,X2,59 (Unknown),1
+2022,June,SUV Small > $40k,TRUE,Jaguar,E-Pace,Private,1
+2022,June,SUV Small > $40k,TRUE,Jaguar,E-Pace,Fleet,3
+2022,June,SUV Small > $40k,TRUE,Jaguar,E-Pace,59 (Unknown),1
+2022,June,SUV Small > $40k,FALSE,Lexus,Lexus UX,Private,5
+2022,June,SUV Small > $40k,FALSE,Lexus,Lexus UX,Fleet,5
+2022,June,SUV Small > $40k,FALSE,Lexus,Lexus UX,59 (Unknown),1
+2022,June,SUV Small > $40k,TRUE,Mercedes-Benz,EQA,Private,4
+2022,June,SUV Small > $40k,TRUE,Mercedes-Benz,EQA,Fleet,2
+2022,June,SUV Small > $40k,FALSE,Mercedes-Benz,GLA-Class,Private,16
+2022,June,SUV Small > $40k,FALSE,Mercedes-Benz,GLA-Class,Fleet,4
+2022,June,SUV Small > $40k,FALSE,Mini,Mini Countryman,Private,14
+2022,June,SUV Small > $40k,FALSE,Mini,Mini Countryman,Fleet,1
+2022,June,SUV Small > $40k,FALSE,Mini,Mini Countryman,59 (Unknown),1
+2022,June,SUV Small > $40k,FALSE,Volvo,XC40,Private,31
+2022,June,SUV Small > $40k,FALSE,Volvo,XC40,Fleet,9
+2022,June,SUV Small > $40k,FALSE,Volvo,XC40,59 (Unknown),3
+2022,June,SUV Medium < $60k,FALSE,Ford,Escape,Private,7
+2022,June,SUV Medium < $60k,FALSE,Ford,Escape,Not For Profit,40
+2022,June,SUV Medium < $60k,FALSE,Ford,Escape,Fleet,1
+2022,June,SUV Medium < $60k,FALSE,GWM,Haval H6,Private,60
+2022,June,SUV Medium < $60k,FALSE,GWM,Haval H6,Rental,1
+2022,June,SUV Medium < $60k,FALSE,GWM,Haval H6,Fleet,7
+2022,June,SUV Medium < $60k,FALSE,GWM,Haval H6,59 (Unknown),2
+2022,June,SUV Medium < $60k,FALSE,Honda,CR-V,Private,62
+2022,June,SUV Medium < $60k,FALSE,Honda,CR-V,Fleet,1
+2022,June,SUV Medium < $60k,FALSE,Hyundai,Tucson,Private,99
+2022,June,SUV Medium < $60k,FALSE,Hyundai,Tucson,Government - State,7
+2022,June,SUV Medium < $60k,FALSE,Hyundai,Tucson,Fleet,15
+2022,June,SUV Medium < $60k,FALSE,Hyundai,Tucson,59 (Unknown),1
+2022,June,SUV Medium < $60k,FALSE,Jeep,Cherokee,Private,0
+2022,June,SUV Medium < $60k,FALSE,Jeep,Cherokee,Fleet,3
+2022,June,SUV Medium < $60k,FALSE,Jeep,Cherokee,59 (Unknown),3
+2022,June,SUV Medium < $60k,FALSE,Kia,Sportage,Private,98
+2022,June,SUV Medium < $60k,FALSE,Kia,Sportage,Rental,20
+2022,June,SUV Medium < $60k,FALSE,Kia,Sportage,Fleet - Large,3
+2022,June,SUV Medium < $60k,FALSE,Kia,Sportage,Fleet,17
+2022,June,SUV Medium < $60k,FALSE,Kia,Sportage,59 (Unknown),2
+2022,June,SUV Medium < $60k,FALSE,Mazda,CX-5,Private,138
+2022,June,SUV Medium < $60k,FALSE,Mazda,CX-5,Fleet,34
+2022,June,SUV Medium < $60k,FALSE,Mazda,CX-5,59 (Unknown),14
+2022,June,SUV Medium < $60k,FALSE,MG,HS,Private,89
+2022,June,SUV Medium < $60k,FALSE,MG,HS,Rental,32
+2022,June,SUV Medium < $60k,FALSE,MG,HS,Fleet,37
+2022,June,SUV Medium < $60k,FALSE,MG,HS,59 (Unknown),17
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,Private,54
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,Rental,10
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,Not For Profit,2
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,Fleet - Large,34
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,Fleet,38
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,59 (Unknown),2
+2022,June,SUV Medium < $60k,FALSE,Nissan,X-Trail,Private,25
+2022,June,SUV Medium < $60k,FALSE,Nissan,X-Trail,Fleet - Large,6
+2022,June,SUV Medium < $60k,FALSE,Nissan,X-Trail,Fleet,5
+2022,June,SUV Medium < $60k,FALSE,Nissan,X-Trail,59 (Unknown),1
+2022,June,SUV Medium < $60k,FALSE,Peugeot,3008,Private,9
+2022,June,SUV Medium < $60k,FALSE,Peugeot,3008,Fleet,7
+2022,June,SUV Medium < $60k,FALSE,Peugeot,3008,59 (Unknown),6
+2022,June,SUV Medium < $60k,FALSE,Peugeot,5008,Private,1
+2022,June,SUV Medium < $60k,FALSE,Renault,Koleos,Private,21
+2022,June,SUV Medium < $60k,FALSE,Renault,Koleos,Fleet,7
+2022,June,SUV Medium < $60k,FALSE,Renault,Koleos,59 (Unknown),6
+2022,June,SUV Medium < $60k,FALSE,Skoda,Karoq,Private,5
+2022,June,SUV Medium < $60k,FALSE,Skoda,Karoq,Fleet,5
+2022,June,SUV Medium < $60k,FALSE,Skoda,Karoq,59 (Unknown),3
+2022,June,SUV Medium < $60k,FALSE,Subaru,Forester,Private,45
+2022,June,SUV Medium < $60k,FALSE,Subaru,Forester,Government - State,1
+2022,June,SUV Medium < $60k,FALSE,Subaru,Forester,Fleet - Large,1
+2022,June,SUV Medium < $60k,FALSE,Subaru,Forester,Fleet,11
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,Private,129
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,Rental,2
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,Not For Profit,1
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,Fleet - Large,4
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,Fleet,21
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,59 (Unknown),3
+2022,June,SUV Medium < $60k,FALSE,Volkswagen,Tiguan,Private,7
+2022,June,SUV Medium < $60k,FALSE,Volkswagen,Tiguan,Fleet,4
+2022,June,SUV Medium < $60k,FALSE,Volkswagen,Tiguan,59 (Unknown),1
+2022,June,SUV Medium > $60k,FALSE,Audi,Q5,Private,13
+2022,June,SUV Medium > $60k,FALSE,Audi,Q5,Fleet,12
+2022,June,SUV Medium > $60k,FALSE,Audi,Q5,59 (Unknown),6
+2022,June,SUV Medium > $60k,FALSE,BMW,X3,Private,35
+2022,June,SUV Medium > $60k,FALSE,BMW,X3,Fleet,10
+2022,June,SUV Medium > $60k,FALSE,BMW,X3,59 (Unknown),10
+2022,June,SUV Medium > $60k,FALSE,BMW,X4,Private,6
+2022,June,SUV Medium > $60k,FALSE,BMW,X4,Fleet,2
+2022,June,SUV Medium > $60k,FALSE,BMW,X4,59 (Unknown),2
+2022,June,SUV Medium > $60k,FALSE,Genesis,Genesis GV70,Private,9
+2022,June,SUV Medium > $60k,FALSE,Genesis,Genesis GV70,Fleet,4
+2022,June,SUV Medium > $60k,TRUE,Hyundai,Ioniq,Private,4
+2022,June,SUV Medium > $60k,TRUE,Hyundai,Ioniq,Fleet,1
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Discovery Sport,Private,1
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Discovery Sport,Fleet,3
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Discovery Sport,59 (Unknown),1
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Range Rover Evoque,Private,6
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Range Rover Evoque,Fleet,3
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Range Rover Evoque,59 (Unknown),1
+2022,June,SUV Medium > $60k,FALSE,Lexus,Lexus NX,Private,12
+2022,June,SUV Medium > $60k,FALSE,Lexus,Lexus NX,Fleet,8
+2022,June,SUV Medium > $60k,FALSE,Lexus,Lexus NX,59 (Unknown),4
+2022,June,SUV Medium > $60k,TRUE,Mercedes-Benz,EQC,Private,0
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,,Fleet,2
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLB-Class,Private,5
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLB-Class,Fleet,3
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLC-Class Coupe,Private,5
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLC-Class Coupe,Fleet,7
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLC-Class Wagon,Private,12
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLC-Class Wagon,Fleet,8
+2022,June,SUV Medium > $60k,FALSE,Porsche,Macan,Private,45
+2022,June,SUV Medium > $60k,FALSE,Porsche,Macan,Fleet,7
+2022,June,SUV Medium > $60k,FALSE,Porsche,Macan,59 (Unknown),7
+2022,June,SUV Medium > $60k,FALSE,Volvo,XC60,Private,20
+2022,June,SUV Medium > $60k,FALSE,Volvo,XC60,Fleet,42
+2022,June,SUV Medium > $60k,FALSE,Volvo,XC60,59 (Unknown),19
+2022,June,SUV Large < $70k,FALSE,Ford,Everest,Private,16
+2022,June,SUV Large < $70k,FALSE,Ford,Everest,Fleet,12
+2022,June,SUV Large < $70k,FALSE,Ford,Everest,59 (Unknown),1
+2022,June,SUV Large < $70k,FALSE,Hyundai,Palisade,Private,25
+2022,June,SUV Large < $70k,FALSE,Hyundai,Palisade,Government - State,4
+2022,June,SUV Large < $70k,FALSE,Hyundai,Palisade,Fleet,8
+2022,June,SUV Large < $70k,FALSE,Hyundai,Palisade,59 (Unknown),2
+2022,June,SUV Large < $70k,FALSE,Hyundai,Santa Fe,Private,24
+2022,June,SUV Large < $70k,FALSE,Hyundai,Santa Fe,Government - State,1
+2022,June,SUV Large < $70k,FALSE,Hyundai,Santa Fe,Not For Profit,1
+2022,June,SUV Large < $70k,FALSE,Hyundai,Santa Fe,Fleet,7
+2022,June,SUV Large < $70k,FALSE,Isuzu,MU-X,Private,32
+2022,June,SUV Large < $70k,FALSE,Isuzu,MU-X,Company Capitalisation,1
+2022,June,SUV Large < $70k,FALSE,Isuzu,MU-X,Fleet,14
+2022,June,SUV Large < $70k,FALSE,Isuzu,MU-X,59 (Unknown),1
+2022,June,SUV Large < $70k,FALSE,Jeep,Grand Cherokee,Private,10
+2022,June,SUV Large < $70k,FALSE,Jeep,Grand Cherokee,Fleet - Large,1
+2022,June,SUV Large < $70k,FALSE,Jeep,Grand Cherokee,Fleet,8
+2022,June,SUV Large < $70k,FALSE,Jeep,Grand Cherokee,59 (Unknown),8
+2022,June,SUV Large < $70k,FALSE,Jeep,Wrangler,Private,18
+2022,June,SUV Large < $70k,FALSE,Jeep,Wrangler,Fleet,9
+2022,June,SUV Large < $70k,FALSE,Jeep,Wrangler,59 (Unknown),8
+2022,June,SUV Large < $70k,FALSE,Kia,Sorento,Private,17
+2022,June,SUV Large < $70k,FALSE,Kia,Sorento,Fleet - Large,1
+2022,June,SUV Large < $70k,FALSE,Kia,Sorento,Fleet,7
+2022,June,SUV Large < $70k,FALSE,LDV,LDV D90,Private,11
+2022,June,SUV Large < $70k,FALSE,LDV,LDV D90,Fleet - Large,21
+2022,June,SUV Large < $70k,FALSE,LDV,LDV D90,Fleet,22
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-8,Private,42
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-8,Fleet,10
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-8,59 (Unknown),5
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-9,Private,22
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-9,Fleet,16
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-9,59 (Unknown),2
+2022,June,SUV Large < $70k,FALSE,Mitsubishi,Pajero Sport,Private,24
+2022,June,SUV Large < $70k,FALSE,Mitsubishi,Pajero Sport,Fleet - Large,21
+2022,June,SUV Large < $70k,FALSE,Mitsubishi,Pajero Sport,Fleet,24
+2022,June,SUV Large < $70k,FALSE,Mitsubishi,Pajero Sport,59 (Unknown),4
+2022,June,SUV Large < $70k,FALSE,Skoda,Kodiaq,Private,3
+2022,June,SUV Large < $70k,FALSE,Skoda,Kodiaq,Fleet,5
+2022,June,SUV Large < $70k,FALSE,Skoda,Kodiaq,59 (Unknown),5
+2022,June,SUV Large < $70k,FALSE,Ssangyong,Rexton,Private,9
+2022,June,SUV Large < $70k,FALSE,Ssangyong,Rexton,Fleet - Large,2
+2022,June,SUV Large < $70k,FALSE,Subaru,Outback,Private,43
+2022,June,SUV Large < $70k,FALSE,Subaru,Outback,Government - Local,1
+2022,June,SUV Large < $70k,FALSE,Subaru,Outback,Fleet,11
+2022,June,SUV Large < $70k,FALSE,Toyota,Fortuner,Private,22
+2022,June,SUV Large < $70k,FALSE,Toyota,Fortuner,Fleet,5
+2022,June,SUV Large < $70k,FALSE,Toyota,Fortuner,59 (Unknown),1
+2022,June,SUV Large < $70k,FALSE,Toyota,Kluger,Private,25
+2022,June,SUV Large < $70k,FALSE,Toyota,Kluger,Rental,3
+2022,June,SUV Large < $70k,FALSE,Toyota,Kluger,Fleet - Large,1
+2022,June,SUV Large < $70k,FALSE,Toyota,Kluger,Fleet,13
+2022,June,SUV Large < $70k,FALSE,Toyota,Kluger,59 (Unknown),1
+2022,June,SUV Large < $70k,FALSE,Toyota,Prado,Private,55
+2022,June,SUV Large < $70k,FALSE,Toyota,Prado,Fleet - Large,4
+2022,June,SUV Large < $70k,FALSE,Toyota,Prado,Fleet,36
+2022,June,SUV Large < $70k,FALSE,Volkswagen,Tiguan Allspace,Private,9
+2022,June,SUV Large < $70k,FALSE,Volkswagen,Tiguan Allspace,Fleet,2
+2022,June,SUV Large < $70k,FALSE,Volkswagen,Tiguan Allspace,59 (Unknown),2
+2022,June,SUV Large > $70k,TRUE,Audi,Audi e-Tron,Private,1
+2022,June,SUV Large > $70k,FALSE,Audi,Q7,Private,2
+2022,June,SUV Large > $70k,FALSE,Audi,Q7,Fleet,10
+2022,June,SUV Large > $70k,FALSE,Audi,Q7,59 (Unknown),3
+2022,June,SUV Large > $70k,TRUE,BMW,iX,Private,2
+2022,June,SUV Large > $70k,TRUE,BMW,iX,Fleet,2
+2022,June,SUV Large > $70k,TRUE,BMW,iX,59 (Unknown),2
+2022,June,SUV Large > $70k,FALSE,BMW,X5,Private,26
+2022,June,SUV Large > $70k,FALSE,BMW,X5,Fleet,4
+2022,June,SUV Large > $70k,FALSE,BMW,X5,59 (Unknown),4
+2022,June,SUV Large > $70k,FALSE,BMW,X6,Private,13
+2022,June,SUV Large > $70k,FALSE,BMW,X6,Fleet,2
+2022,June,SUV Large > $70k,FALSE,BMW,X6,59 (Unknown),2
+2022,June,SUV Large > $70k,FALSE,Jaguar,F-Pace,Private,3
+2022,June,SUV Large > $70k,FALSE,Jaguar,F-Pace,Fleet,3
+2022,June,SUV Large > $70k,TRUE,Kia,Kia EV6,Private,3
+2022,June,SUV Large > $70k,TRUE,Kia,Kia EV6,Fleet,1
+2022,June,SUV Large > $70k,FALSE,Land Rover,Defender,Private,12
+2022,June,SUV Large > $70k,FALSE,Land Rover,Defender,Fleet,13
+2022,June,SUV Large > $70k,FALSE,Land Rover,Defender,59 (Unknown),7
+2022,June,SUV Large > $70k,FALSE,Land Rover,Range Rover Sport,Private,9
+2022,June,SUV Large > $70k,FALSE,Land Rover,Range Rover Sport,Fleet,7
+2022,June,SUV Large > $70k,FALSE,Land Rover,Range Rover Velar,Private,1
+2022,June,SUV Large > $70k,FALSE,Land Rover,Range Rover Velar,Fleet,1
+2022,June,SUV Large > $70k,FALSE,Lexus,Lexus RX,Private,10
+2022,June,SUV Large > $70k,FALSE,Lexus,Lexus RX,Fleet,12
+2022,June,SUV Large > $70k,FALSE,Lexus,Lexus RX,59 (Unknown),7
+2022,June,SUV Large > $70k,FALSE,Maserati,Levante,Private,8
+2022,June,SUV Large > $70k,FALSE,Maserati,Levante,Fleet,1
+2022,June,SUV Large > $70k,FALSE,Maserati,Levante,59 (Unknown),1
+2022,June,SUV Large > $70k,FALSE,Mercedes-Benz,GLE-Class Coupe,Private,1
+2022,June,SUV Large > $70k,FALSE,Mercedes-Benz,GLE-Class Coupe,Fleet,2
+2022,June,SUV Large > $70k,FALSE,Mercedes-Benz,GLE-Class Wagon,Private,8
+2022,June,SUV Large > $70k,FALSE,Mercedes-Benz,GLE-Class Wagon,Fleet,8
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Coupe,Private,14
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Coupe,Fleet,2
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Coupe,59 (Unknown),2
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Wagen,Private,18
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Wagen,Fleet,6
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Wagen,59 (Unknown),6
+2022,June,SUV Large > $70k,FALSE,Volkswagen,Touareg,Private,0
+2022,June,SUV Large > $70k,FALSE,Volkswagen,Touareg,Fleet,2
+2022,June,SUV Large > $70k,FALSE,Volkswagen,Touareg,59 (Unknown),1
+2022,June,SUV Large > $70k,FALSE,Volvo,XC90,Private,9
+2022,June,SUV Large > $70k,FALSE,Volvo,XC90,Fleet,5
+2022,June,SUV Large > $70k,FALSE,Volvo,XC90,59 (Unknown),5
+2022,June,SUV Upper Large <$100k,FALSE,Nissan,Patrol Wagon,Private,49
+2022,June,SUV Upper Large <$100k,FALSE,Nissan,Patrol Wagon,Fleet - Large,1
+2022,June,SUV Upper Large <$100k,FALSE,Nissan,Patrol Wagon,Fleet,10
+2022,June,SUV Upper Large <$100k,FALSE,Nissan,Patrol Wagon,59 (Unknown),2
+2022,June,SUV Upper Large <$100k,FALSE,Toyota,Landcruiser,Private,29
+2022,June,SUV Upper Large <$100k,FALSE,Toyota,Landcruiser,Rental,1
+2022,June,SUV Upper Large <$100k,FALSE,Toyota,Landcruiser,Fleet,24
+2022,June,SUV Upper Large <$100k,FALSE,Toyota,Landcruiser,59 (Unknown),1
+2022,June,SUV Upper Large >$100k,FALSE,Aston Martin,Aston Martin DBX,Private,1
+2022,June,SUV Upper Large >$100k,FALSE,Aston Martin,Aston Martin DBX,Fleet,1
+2022,June,SUV Upper Large >$100k,FALSE,Aston Martin,Aston Martin DBX,59 (Unknown),1
+2022,June,SUV Upper Large >$100k,FALSE,Audi,Q8,Private,1
+2022,June,SUV Upper Large >$100k,FALSE,Audi,Q8,Fleet,4
+2022,June,SUV Upper Large >$100k,FALSE,Audi,Q8,59 (Unknown),1
+2022,June,SUV Upper Large >$100k,FALSE,Bentley,Bentayga,Private,6
+2022,June,SUV Upper Large >$100k,FALSE,Bentley,Bentayga,Fleet,2
+2022,June,SUV Upper Large >$100k,FALSE,Bentley,Bentayga,59 (Unknown),2
+2022,June,SUV Upper Large >$100k,FALSE,BMW,X7,Private,7
+2022,June,SUV Upper Large >$100k,FALSE,BMW,X7,Fleet,2
+2022,June,SUV Upper Large >$100k,FALSE,BMW,X7,59 (Unknown),2
+2022,June,SUV Upper Large >$100k,FALSE,Lamborghini,Urus,Private,2
+2022,June,SUV Upper Large >$100k,FALSE,Land Rover,Discovery,Private,3
+2022,June,SUV Upper Large >$100k,FALSE,Lexus,Lexus LX,Private,0
+2022,June,SUV Upper Large >$100k,FALSE,Lexus,Lexus LX,Fleet,3
+2022,June,SUV Upper Large >$100k,FALSE,Lexus,Lexus LX,59 (Unknown),2
+2022,June,SUV Upper Large >$100k,FALSE,Mercedes-Benz,G-Class,Private,10
+2022,June,SUV Upper Large >$100k,FALSE,Mercedes-Benz,G-Class,Fleet,4
+2022,June,SUV Upper Large >$100k,FALSE,Mercedes-Benz,GLS-Class,Private,2
+2022,June,SUV Upper Large >$100k,FALSE,Mercedes-Benz,GLS-Class,Fleet,3
+2022,June,SUV Upper Large >$100k,FALSE,Rolls-Royce,Cullinan,Private,0
+2022,June,SUV Upper Large >$100k,FALSE,Rolls-Royce,Cullinan,Fleet,1
+2022,June,SUV Upper Large >$100k,FALSE,Rolls-Royce,Cullinan,59 (Unknown),1
+2022,June,Light Buses < 20 Seats,FALSE,Mercedes-Benz,Sprinter Bus,Private,1
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,Private,1
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,Rental,14
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,Not For Profit,3
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,Taxi,1
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,Fleet - Large,5
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,Fleet,1
+2022,June,Light Buses < 20 Seats,FALSE,Volkswagen,Crafter Bus,Private,1
+2022,June,Light Buses < 20 Seats,FALSE,Volkswagen,Crafter Bus,Fleet,2
+2022,June,Light Busses => 20 Seats,FALSE,Toyota,Coaster,Private,0
+2022,June,Light Busses => 20 Seats,FALSE,Toyota,Coaster,Rental,1
+2022,June,Vans / CC <= 2.5t,FALSE,Renault,Kangoo,Private,2
+2022,June,Vans / CC <= 2.5t,FALSE,Renault,Kangoo,Fleet,1
+2022,June,Vans / CC <= 2.5t,FALSE,Volkswagen,Caddy Van,Private,2
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Ford,Transit Custom,Private,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Ford,Transit Custom,Government - Local,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Ford,Transit Custom,Fleet,3
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Hyundai,Staria Load,Private,12
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Hyundai,Staria Load,Government - Local,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Hyundai,Staria Load,Rental,2
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Hyundai,Staria Load,Fleet,22
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Hyundai,Staria Load,59 (Unknown),1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,LDV G10/G10+,Private,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,LDV G10/G10+,Fleet - Large,7
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,LDV G10/G10+,Fleet,29
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,LDV V80,Private,0
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,LDV V80,Fleet - Large,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,LDV V80,Fleet,5
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Mercedes-Benz,Vito Van,Private,2
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Mercedes-Benz,Vito Van,Fleet,4
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Mitsubishi,Express,Private,0
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Mitsubishi,Express,Fleet,15
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Peugeot,Expert,Private,0
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Peugeot,Expert,Fleet,3
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Peugeot,Expert,59 (Unknown),2
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Renault,Trafic,Private,12
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Renault,Trafic,Fleet - Large,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Renault,Trafic,Fleet,3
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Renault,Trafic,59 (Unknown),1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Toyota,Hiace Van,Private,13
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Toyota,Hiace Van,Government - State,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Toyota,Hiace Van,Rental,4
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Toyota,Hiace Van,Fleet - Large,10
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Toyota,Hiace Van,Fleet,36
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Volkswagen,Transporter,Private,5
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Volkswagen,Transporter,Fleet - Large,1
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Volkswagen,Transporter,Fleet,1
+2022,June,PU / CC 4x2,FALSE,Ford,Ranger 4x2,Private,0
+2022,June,PU / CC 4x2,FALSE,Ford,Ranger 4x2,Government - Local,24
+2022,June,PU / CC 4x2,FALSE,Ford,Ranger 4x2,Fleet,3
+2022,June,PU / CC 4x2,FALSE,GWM,GWM Ute 4x2,Private,4
+2022,June,PU / CC 4x2,FALSE,Isuzu,Isuzu Ute 4x2,Private,4
+2022,June,PU / CC 4x2,FALSE,Isuzu,Isuzu Ute 4x2,Government - Local,2
+2022,June,PU / CC 4x2,FALSE,Isuzu,Isuzu Ute 4x2,Fleet,39
+2022,June,PU / CC 4x2,FALSE,Isuzu,Isuzu Ute 4x2,59 (Unknown),5
+2022,June,PU / CC 4x2,FALSE,Mazda,BT-50 4x2,Private,7
+2022,June,PU / CC 4x2,FALSE,Mazda,BT-50 4x2,Fleet - Large,4
+2022,June,PU / CC 4x2,FALSE,Mazda,BT-50 4x2,Fleet,25
+2022,June,PU / CC 4x2,FALSE,Mazda,BT-50 4x2,59 (Unknown),6
+2022,June,PU / CC 4x2,FALSE,Mitsubishi,Triton 4x2,Private,3
+2022,June,PU / CC 4x2,FALSE,Mitsubishi,Triton 4x2,Government - Local,1
+2022,June,PU / CC 4x2,FALSE,Mitsubishi,Triton 4x2,Fleet - Large,5
+2022,June,PU / CC 4x2,FALSE,Mitsubishi,Triton 4x2,Fleet,11
+2022,June,PU / CC 4x2,FALSE,Nissan,Navara 4x2,Private,4
+2022,June,PU / CC 4x2,FALSE,Nissan,Navara 4x2,Government - Local,12
+2022,June,PU / CC 4x2,FALSE,Nissan,Navara 4x2,Fleet - Large,4
+2022,June,PU / CC 4x2,FALSE,Nissan,Navara 4x2,Fleet,6
+2022,June,PU / CC 4x2,FALSE,Nissan,Navara 4x2,59 (Unknown),1
+2022,June,PU / CC 4x2,FALSE,Toyota,Hilux 4x2,Private,32
+2022,June,PU / CC 4x2,FALSE,Toyota,Hilux 4x2,Government - State,1
+2022,June,PU / CC 4x2,FALSE,Toyota,Hilux 4x2,Fleet - Large,18
+2022,June,PU / CC 4x2,FALSE,Toyota,Hilux 4x2,Fleet,61
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado,Private,5
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado,Fleet,11
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado HD,Private,2
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado HD,Fleet,4
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado HD,59 (Unknown),1
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,Private,78
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,Government - Local,10
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,Not For Profit,1
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,Fleet - Large,2
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,Fleet,83
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,59 (Unknown),5
+2022,June,PU / CC 4x4,FALSE,GWM,GWM Ute 4x4,Private,54
+2022,June,PU / CC 4x4,FALSE,GWM,GWM Ute 4x4,Fleet,19
+2022,June,PU / CC 4x4,FALSE,GWM,GWM Ute 4x4,59 (Unknown),4
+2022,June,PU / CC 4x4,FALSE,Isuzu,Isuzu Ute 4x4,Private,50
+2022,June,PU / CC 4x4,FALSE,Isuzu,Isuzu Ute 4x4,Rental,1
+2022,June,PU / CC 4x4,FALSE,Isuzu,Isuzu Ute 4x4,Company Capitalisation,1
+2022,June,PU / CC 4x4,FALSE,Isuzu,Isuzu Ute 4x4,Fleet - Large,3
+2022,June,PU / CC 4x4,FALSE,Isuzu,Isuzu Ute 4x4,Fleet,57
+2022,June,PU / CC 4x4,FALSE,Isuzu,Isuzu Ute 4x4,59 (Unknown),4
+2022,June,PU / CC 4x4,FALSE,Jeep,Gladiator,Private,11
+2022,June,PU / CC 4x4,FALSE,Jeep,Gladiator,Fleet,24
+2022,June,PU / CC 4x4,FALSE,Jeep,Gladiator,59 (Unknown),22
+2022,June,PU / CC 4x4,FALSE,LDV,LDV T60/T60 MAX 4x4,Private,7
+2022,June,PU / CC 4x4,FALSE,LDV,LDV T60/T60 MAX 4x4,Fleet,24
+2022,June,PU / CC 4x4,FALSE,Mazda,BT-50 4x4,Private,61
+2022,June,PU / CC 4x4,FALSE,Mazda,BT-50 4x4,Government - Federal,1
+2022,June,PU / CC 4x4,FALSE,Mazda,BT-50 4x4,Fleet - Large,4
+2022,June,PU / CC 4x4,FALSE,Mazda,BT-50 4x4,Fleet,53
+2022,June,PU / CC 4x4,FALSE,Mazda,BT-50 4x4,59 (Unknown),9
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Private,66
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Government - State,1
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Government - Local,17
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Rental,1
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Not For Profit,1
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Fleet - Large,57
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,Fleet,84
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4x4,59 (Unknown),5
+2022,June,PU / CC 4x4,FALSE,Nissan,Navara 4x4,Private,57
+2022,June,PU / CC 4x4,FALSE,Nissan,Navara 4x4,Government - Local,3
+2022,June,PU / CC 4x4,FALSE,Nissan,Navara 4x4,Fleet - Large,15
+2022,June,PU / CC 4x4,FALSE,Nissan,Navara 4x4,Fleet,57
+2022,June,PU / CC 4x4,FALSE,Nissan,Navara 4x4,59 (Unknown),8
+2022,June,PU / CC 4x4,FALSE,RAM,1500,Private,30
+2022,June,PU / CC 4x4,FALSE,RAM,1500,Fleet,4
+2022,June,PU / CC 4x4,FALSE,RAM,1500,59 (Unknown),4
+2022,June,PU / CC 4x4,FALSE,RAM,2500,Private,4
+2022,June,PU / CC 4x4,FALSE,RAM,2500,Company Capitalisation,1
+2022,June,PU / CC 4x4,FALSE,RAM,3500,Private,1
+2022,June,PU / CC 4x4,FALSE,Ssangyong,Musso/Musso XLV 4x4,Private,9
+2022,June,PU / CC 4x4,FALSE,Ssangyong,Musso/Musso XLV 4x4,Fleet - Large,1
+2022,June,PU / CC 4x4,FALSE,Toyota,Hilux 4x4,Private,69
+2022,June,PU / CC 4x4,FALSE,Toyota,Hilux 4x4,Rental,50
+2022,June,PU / CC 4x4,FALSE,Toyota,Hilux 4x4,Fleet - Large,29
+2022,June,PU / CC 4x4,FALSE,Toyota,Hilux 4x4,Fleet,82
+2022,June,PU / CC 4x4,FALSE,Toyota,Landcruiser PU / CC 4x4,Private,23
+2022,June,PU / CC 4x4,FALSE,Toyota,Landcruiser PU / CC 4x4,Rental,11
+2022,June,PU / CC 4x4,FALSE,Toyota,Landcruiser PU / CC 4x4,Fleet - Large,1
+2022,June,PU / CC 4x4,FALSE,Toyota,Landcruiser PU / CC 4x4,Fleet,15
+2022,June,PU / CC 4x4,FALSE,Volkswagen,Amarok 4x4,Private,26
+2022,June,PU / CC 4x4,FALSE,Volkswagen,Amarok 4x4,Fleet - Large,2
+2022,June,PU / CC 4x4,FALSE,Volkswagen,Amarok 4x4,Fleet,18
+2022,June,PU / CC 4x4,FALSE,Volkswagen,Amarok 4x4,59 (Unknown),13
+2022,June,LD 3.5t-8.0t GVM,FALSE,Fiat,Ducato,Private,3
+2022,June,LD 3.5t-8.0t GVM,FALSE,Ford,Transit Heavy,Private,0
+2022,June,LD 3.5t-8.0t GVM,FALSE,Ford,Transit Heavy,Fleet,3
+2022,June,LD 3.5t-8.0t GVM,FALSE,Fuso,Fuso Canter LD,Private,0
+2022,June,LD 3.5t-8.0t GVM,FALSE,Fuso,Fuso Canter LD,Fleet,9
+2022,June,LD 3.5t-8.0t GVM,FALSE,Hino,Hino LD,Private,0
+2022,June,LD 3.5t-8.0t GVM,FALSE,Hino,Hino LD,Fleet,10
+2022,June,LD 3.5t-8.0t GVM,FALSE,Hyundai,Hyundai EX4,Private,0
+2022,June,LD 3.5t-8.0t GVM,FALSE,Hyundai,Hyundai EX4,Fleet,1
+2022,June,LD 3.5t-8.0t GVM,FALSE,Isuzu,Isuzu N-Series LD,Private,0
+2022,June,LD 3.5t-8.0t GVM,FALSE,Isuzu,Isuzu N-Series LD,Fleet,51
+2022,June,LD 3.5t-8.0t GVM,FALSE,LDV,LDV Deliver 9,Private,4
+2022,June,LD 3.5t-8.0t GVM,FALSE,LDV,LDV Deliver 9,Fleet - Large,1
+2022,June,LD 3.5t-8.0t GVM,FALSE,LDV,LDV Deliver 9,Fleet,15
+2022,June,LD 3.5t-8.0t GVM,FALSE,Mercedes-Benz,Sprinter,Private,2
+2022,June,LD 3.5t-8.0t GVM,FALSE,Mercedes-Benz,Sprinter,Fleet,7
+2022,June,LD 3.5t-8.0t GVM,FALSE,Renault,Master,Private,5
+2022,June,LD 3.5t-8.0t GVM,FALSE,Renault,Master,Fleet - Large,1
+2022,June,LD 3.5t-8.0t GVM,FALSE,Renault,Master,Fleet,5
+2022,June,LD 3.5t-8.0t GVM,FALSE,Volkswagen,Crafter,Private,8
+2022,June,LD 3.5t-8.0t GVM,FALSE,Volkswagen,Crafter,Fleet,1
