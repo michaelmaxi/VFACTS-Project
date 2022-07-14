@@ -1,0 +1,317 @@
+Year,Month,Category,Market Shart,Make,Model,Private,Government - Federal,Government - State,Government - Local,Rental,Not For Profit,Company Capitalisation,Taxi,Fleet - Large,Fleet,59 (Unknown),59 = FLEET,Count 59 = fleet,Total
+2022,June,Micro,FALSE,Fiat,500/Abarth,4,,,,,,,,,0,0,FALSE,0,4
+2022,June,Micro,FALSE,Kia,Picanto,20,,,,39,,,,,2,1,FALSE,0,61
+2022,June,Micro,FALSE,Mitsubishi,Mirage,6,,,,3,,,,,0,0,FALSE,0,9
+2022,June,Light < $25k,FALSE,Hyundai,i20,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Light < $25k,FALSE,Kia,Rio,34,,,,5,,,,,3,1,FALSE,0,42
+2022,June,Light < $25k,FALSE,Mazda2,Mazda 2,23,,,,,,,,,9,5,FALSE,0,32
+2022,June,Light < $25k,FALSE,MG,MG3,155,,,,18,,1,,,27,4,FALSE,0,201
+2022,June,Light < $25k,FALSE,Skoda,Fabia,,,,,,,,,,1,0,FALSE,0,1
+2022,June,Light < $25k,FALSE,Suzuki,Baleno,20,,,,,,,,,5,2,FALSE,0,25
+2022,June,Light < $25k,FALSE,Suzuki,Swift,48,,,,,,,,,8,2,FALSE,0,56
+2022,June,Light < $25k,FALSE,Toyota,Yaris,10,,,,10,,,,1,3,1,FALSE,0,24
+2022,June,Light < $25k,FALSE,Volkswagen,Polo,12,,,,,,,,,2,1,FALSE,0,14
+2022,June,Light > $25k,FALSE,Audi,A1,3,,,,,,,,,2,1,FALSE,0,5
+2022,June,Light > $25k,FALSE,MINI,Mini Hatch,18,,,,,,,,,1,1,TRUE,1,19
+2022,June,Small < $40k,FALSE,Ford,Focus,2,,,,,,,,,0,0,FALSE,0,2
+2022,June,Small < $40k,FALSE,Honda,Civic,7,,,,,,,,,1,0,FALSE,0,8
+2022,June,Small < $40k,FALSE,Hyundai,i30,156,,6,,12,,,,,58,2,FALSE,0,232
+2022,June,Small < $40k,FALSE,Hyundai,Ioniq,2,,1,10,,,,,,1,1,TRUE,1,14
+2022,June,Small < $40k,FALSE,Kia,Cerato,95,,,,3,,,,1,10,0,FALSE,0,109
+2022,June,Small < $40k,FALSE,Mazda3,Mazda 3,50,,,,,,,,,10,5,FALSE,0,60
+2022,June,Small < $40k,FALSE,Skoda,Scala,1,,,,,,,,,3,3,TRUE,1,4
+2022,June,Small < $40k,FALSE,Subaru,Impreza,18,,,,,,,,,10,0,FALSE,0,28
+2022,June,Small < $40k,FALSE,Subaru,WRX,3,,,,,,,,,4,0,FALSE,0,7
+2022,June,Small < $40k,FALSE,Toyota,Corolla,91,,,,17,2,,,5,15,6,FALSE,0,130
+2022,June,Small < $40k,FALSE,Volkswagen,Golf,14,,,,,,,,,1,1,TRUE,1,15
+2022,June,Small > $40k,FALSE,Audi,A3,6,,,,,,,,,7,2,FALSE,0,13
+2022,June,Small > $40k,FALSE,BMW,1 Series,7,,,,,,,,,5,5,TRUE,1,12
+2022,June,Small > $40k,FALSE,BMW,2 Series Gran Coupe,7,,,,,,,,,2,2,TRUE,1,9
+2022,June,Small > $40k,FALSE,Mercedes-Benz,A-Class,12,,,,,,,,,5,0,FALSE,0,17
+2022,June,Small > $40k,FALSE,MINI,Clubman,4,,,,,,,,,0,0,FALSE,0,4
+2022,June,Small > $40k,FALSE,Nissan,Leaf,2,,,,,,,,,0,0,FALSE,0,2
+2022,June,Medium < $60k,FALSE,Honda,Accord,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Medium < $60k,FALSE,Hyundai,Sonata,5,,,,,,,,,1,1,TRUE,1,6
+2022,June,Medium < $60k,FALSE,Mazda6,Mazda 6,3,,,,,,,,,1,1,TRUE,1,4
+2022,June,Medium < $60k,FALSE,Peugeot,508,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Medium < $60k,FALSE,Skoda,Octavia,1,,,,,,,,,7,7,TRUE,1,8
+2022,June,Medium < $60k,FALSE,Toyota,Camry,23,,,,,,,,,9,0,FALSE,0,32
+2022,June,Medium < $60k,FALSE,Volkswagen,Passat,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Medium < $60k,FALSE,,,,,,,,,,,,0,0,FALSE,0,
+2022,June,Medium > $60k,FALSE,Audi,A4,2,,,,,,,,,4,4,TRUE,1,6
+2022,June,Medium > $60k,FALSE,Audi,A5 Sportback,1,,,,,,,,,3,1,FALSE,0,4
+2022,June,Medium > $60k,FALSE,BMW,3 Series,15,,,,,,,,,2,2,TRUE,1,17
+2022,June,Medium > $60k,FALSE,BMW,4 Series Gran Coupe,5,,,,,,,,,1,1,TRUE,1,6
+2022,June,Medium > $60k,FALSE,Jaguar,XE,2,,,,,,,,,1,0,FALSE,0,3
+2022,June,Medium > $60k,FALSE,Lexus,ES,2,,,,,,,,,8,6,FALSE,0,10
+2022,June,Medium > $60k,FALSE,Mercedes-Benz,C-Class,15,,,,,,,,,6,0,FALSE,0,21
+2022,June,Medium > $60k,FALSE,Mercedes-Benz,CLA-Class,7,,,,,,,,,5,0,FALSE,0,12
+2022,June,Medium > $60k,FALSE,Polestar,Polestar 2,3,,,,,,,,,0,0,FALSE,0,3
+2022,June,Medium > $60k,FALSE,Tesla,Model 3,86,,,,,,,,,46,0,FALSE,0,132
+2022,June,Medium > $60k,FALSE,Volkswagen,Arteon,1,,,,,,,,,1,0,FALSE,0,2
+2022,June,Medium > $60k,FALSE,Volvo,S60,3,,,,,,,,,1,1,TRUE,1,4
+2022,June,Medium > $60k,FALSE,Volvo,V60 Cross Country,1,,,,,,,,,1,1,TRUE,1,2
+2022,June,Large < $70k,FALSE,Kia,Stinger,18,,,,,,,,,8,2,FALSE,0,26
+2022,June,Large < $70k,FALSE,Skoda,Superb,1,,,,,,,,,3,3,TRUE,1,4
+2022,June,Large > $70k,FALSE,Audi,A6,,,,,,,,,,5,4,FALSE,0,5
+2022,June,Large > $70k,FALSE,Audi,A7,,,,,,,,,,1,1,TRUE,1,1
+2022,June,Large > $70k,FALSE,BMW,5 Series,3,,,,,,,,,1,1,TRUE,1,4
+2022,June,Large > $70k,FALSE,Genesis,G80,,,,,,,,,,1,0,FALSE,0,1
+2022,June,Large > $70k,FALSE,Maserati,Ghibli,2,,,,,,,,,3,3,TRUE,1,5
+2022,June,Large > $70k,FALSE,Mercedes-Benz,E-Class,,,,,,,,,,1,0,FALSE,0,1
+2022,June,Large > $70k,FALSE,Porsche,Taycan,8,,,,,,,,,3,3,TRUE,1,11
+2022,June,Upper Large < $100k,FALSE,Chrysler,Chrysler 300,,,,,,,,,,1,1,TRUE,1,1
+2022,June,Upper Large > $100k,FALSE,Bentley,Bentley Sedan,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Upper Large > $100k,FALSE,BMW,7 Series,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Upper Large > $100k,FALSE,BMW,8 Series Gran Coupe,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Upper Large > $100k,FALSE,Lexus,Lexus LS,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Upper Large > $100k,FALSE,Mercedes-Benz,S-Class,4,,,,,,,,,1,0,FALSE,0,5
+2022,June,Upper Large > $100k,FALSE,Porsche,Panamera,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,People Movers < $60k,FALSE,Honda,Odyssey,10,,,,,,,,,0,0,FALSE,0,10
+2022,June,People Movers < $60k,FALSE,Hyundai,Staria,10,,,,6,,,,,4,0,FALSE,0,20
+2022,June,People Movers < $60k,FALSE,Kia,Carnival,22,,1,,52,,,,16,2,1,FALSE,0,93
+2022,June,People Movers < $60k,FALSE,LDV,G10 Wagon,2,,,,,,,,,7,0,FALSE,0,9
+2022,June,People Movers < $60k,FALSE,Volkswagen,Caddy,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,People Movers > $60k,FALSE,Mercedes-Benz,V-Class,3,,,,,,,,,3,0,FALSE,0,6
+2022,June,People Movers > $60k,FALSE,Mercedes-Benz,Valente,1,,,,,,,,,1,0,FALSE,0,2
+2022,June,People Movers > $60k,FALSE,Toyota,Granvia,,,,,,,,,,1,0,FALSE,0,1
+2022,June,Sports < $80k,FALSE,BMW,2 Series Gran Coupe / Convertable,2,,,,,,,,,2,2,TRUE,1,4
+2022,June,Sports < $80k,FALSE,Ford,Mustang,15,,,,,,,,,0,0,FALSE,0,15
+2022,June,Sports < $80k,FALSE,Mazda,MX-5,3,,,,,,,,,0,0,FALSE,0,3
+2022,June,Sports < $80k,FALSE,MINI,Mini Cabrio,7,,,,,,,,,0,0,FALSE,0,7
+2022,June,Sports < $80k,FALSE,Subaru,BRZ,8,,,,,,,,,1,0,FALSE,0,9
+2022,June,Sports > $80k,FALSE,Audi,A5,,,,,,,,,,2,1,FALSE,0,2
+2022,June,Sports > $80k,FALSE,BMW,4 Series Coupe / Convertable,10,,,,,,,,,0,0,FALSE,0,10
+2022,June,Sports > $80k,FALSE,BMW,Z4,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Sports > $80k,FALSE,Chevrolet,Corvette Stingray,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Sports > $80k,FALSE,Jaguar,F-Type,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Sports > $80k,FALSE,Mercedes-Benz,C-Class Coupe / Convertable,4,,,,,,,,,4,0,FALSE,0,8
+2022,June,Sports > $80k,FALSE,Mercedes-Benz,E-Class Coupe / Convertable,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Sports > $80k,FALSE,Porsche,Boxster,,,,,,,,,,1,1,TRUE,1,1
+2022,June,Sports > $80k,FALSE,Porsche,Cayman,2,,,,,,,,,0,0,FALSE,0,2
+2022,June,Sports > $80k,FALSE,Toyota,Supra,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Sports > $200k,FALSE,Aston Martin,Aston Coupe / Convertable,2,,,,,,,,,3,3,TRUE,1,5
+2022,June,Sports > $200k,FALSE,Bentley,Bently Coupe / Convertable,5,,,,,,,,,0,0,FALSE,0,5
+2022,June,Sports > $200k,FALSE,BMW,8 Series,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Sports > $200k,FALSE,Ferrari,Ferrari Coupe / Convertable,4,,,,,,,,,0,0,FALSE,0,4
+2022,June,Sports > $200k,FALSE,McLaren,McLaren Coupe / Convertable,4,,,,,,,,,0,0,FALSE,0,4
+2022,June,Sports > $200k,FALSE,Porsche,911,11,,,,,,,,,2,2,TRUE,1,13
+2022,June,Passenger,TRUE,Mitsubishi,,6,,,,3,,,,,0,0,FALSE,0,9
+2022,June,Passenger,TRUE,Ford,,17,,,,,,,,,0,0,FALSE,0,17
+2022,June,Passenger,TRUE,Honda,,18,,,,,,,,,1,0,FALSE,0,19
+2022,June,Passenger,TRUE,Hyundai,,174,,7,10,18,,,,,64,4,FALSE,0,273
+2022,June,Passenger,TRUE,Kia,,189,,1,,99,,,,17,25,5,FALSE,0,331
+2022,June,Passenger,TRUE,Mazda,,79,,,,,,,,,20,11,FALSE,0,99
+2022,June,Passenger,TRUE,MG,,155,,,,18,,1,,,27,4,FALSE,0,201
+2022,June,Passenger,TRUE,Nissan,,2,,,,,,,,,0,0,FALSE,0,2
+2022,June,Passenger,TRUE,Subaru,,29,,,,,,,,,15,0,FALSE,0,44
+2022,June,Passenger,TRUE,Suzuki,,68,,,,,,,,,13,4,FALSE,0,81
+2022,June,Passenger,TRUE,Toyota,,128,,,,27,,2,,6,36,13,FALSE,0,199
+2022,June,Passenger,TRUE,Volkswagen,,29,,,,,,,,,4,2,FALSE,0,33
+2022,June,SUV Light,FALSE,Ford,Puma,1,,,,,6,,,,9,9,TRUE,1,16
+2022,June,SUV Light,FALSE,Hyundai,Venue,51,,5,,37,,,,,1,1,TRUE,1,94
+2022,June,SUV Light,FALSE,Kia,Stonic,37,,,,57,,,,,3,2,FALSE,0,97
+2022,June,SUV Light,FALSE,Mazda,CX-3,71,,,,,,,,,12,4,FALSE,0,83
+2022,June,SUV Light,FALSE,Nissan,Juke,7,,,,,,,,1,5,3,FALSE,0,13
+2022,June,SUV Light,FALSE,Renault,Captur,6,,,,,,,,,4,4,TRUE,1,10
+2022,June,SUV Light,FALSE,Suzuki,Ignis,7,,,,,,,,,2,1,FALSE,0,9
+2022,June,SUV Light,FALSE,Suzuki,Jimny,14,,,,,,,,,4,2,FALSE,0,18
+2022,June,SUV Light,FALSE,Toyota,Yaris Cross,42,,,,10,3,,,1,9,0,FALSE,0,65
+2022,June,SUV Light,FALSE,Volkswagen,T-Cross,35,,,,,,,,,1,0,FALSE,0,36
+2022,June,SUV Small < $40k,FALSE,GWM,Haval Jolion,71,,,,1,,,,,7,2,FALSE,0,79
+2022,June,SUV Small < $40k,FALSE,Honda,HR-V,52,,,,,,,,,0,0,FALSE,0,52
+2022,June,SUV Small < $40k,FALSE,Hyundai,Kona,85,,12,1,3,,,,1,7,2,FALSE,0,109
+2022,June,SUV Small < $40k,FALSE,Jeep,Compass,3,,,,,,,,,22,21,FALSE,0,25
+2022,June,SUV Small < $40k,FALSE,Kia,Niro,4,,,,,,,,,2,2,TRUE,1,6
+2022,June,SUV Small < $40k,FALSE,Kia,Seltos,69,,,,,,,,,4,0,FALSE,0,73
+2022,June,SUV Small < $40k,FALSE,Mazda,CX-30,102,,,,,,,,,20,8,FALSE,0,122
+2022,June,SUV Small < $40k,FALSE,Mazda,MX-30,3,,,,,,,,,1,1,TRUE,1,4
+2022,June,SUV Small < $40k,FALSE,MG,MG ZS,212,,,,,5,,,,19,8,FALSE,0,236
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,ASX,44,,,,8,17,,,17,13,3,FALSE,0,99
+2022,June,SUV Small < $40k,FALSE,Mitsubishi,Eclipse Cross,22,,,,3,2,,,10,15,1,FALSE,0,52
+2022,June,SUV Small < $40k,FALSE,Peugeot,2008,1,,,,,,,,,2,2,TRUE,1,3
+2022,June,SUV Small < $40k,FALSE,Renault,Renault Arkana,11,,,,,,,,,4,4,TRUE,1,15
+2022,June,SUV Small < $40k,FALSE,Skoda,Kamiq,6,,,,,,,,,8,8,TRUE,1,14
+2022,June,SUV Small < $40k,FALSE,Subaru,Subaru XV,42,,,,,,,,,7,0,FALSE,0,49
+2022,June,SUV Small < $40k,FALSE,Suzuki,Vitara,7,,,,,,,,,0,0,FALSE,0,7
+2022,June,SUV Small < $40k,FALSE,Toyota,C-HR,46,,,,,,,,,6,1,FALSE,0,52
+2022,June,SUV Small < $40k,FALSE,Volkswagen,T-Roc,12,,,,,,,,1,1,0,FALSE,0,14
+2022,June,SUV Small > $40k,FALSE,Audi,Q2,2,,,,,,,,,1,0,FALSE,0,3
+2022,June,SUV Small > $40k,FALSE,Audi,Q3,25,,,,,,,,,9,1,FALSE,0,34
+2022,June,SUV Small > $40k,FALSE,BMW,X1,28,,,,,,,,,2,2,TRUE,1,30
+2022,June,SUV Small > $40k,FALSE,BMW,X2,5,,,,,,,,,1,1,TRUE,1,6
+2022,June,SUV Small > $40k,FALSE,Jaguar,E-Pace,1,,,,,,,,,3,1,FALSE,0,4
+2022,June,SUV Small > $40k,FALSE,Lexus,Lexus UX,5,,,,,,,,,5,1,FALSE,0,10
+2022,June,SUV Small > $40k,FALSE,Mercedes-Benz,EQA,4,,,,,,,,,2,0,FALSE,0,6
+2022,June,SUV Small > $40k,FALSE,Mercedes-Benz,GLA-Class,16,,,,,,,,,4,0,FALSE,0,20
+2022,June,SUV Small > $40k,FALSE,MINI,Mini Countryman,14,,,,,,,,,1,1,TRUE,1,15
+2022,June,SUV Small > $40k,FALSE,Volvo,XC40,31,,,,,,,,,9,3,FALSE,0,40
+2022,June,SUV Medium < $60k,FALSE,Ford,Escape,7,,,,,40,,,,1,0,FALSE,0,48
+2022,June,SUV Medium < $60k,FALSE,GWM,Haval H6,60,,,,1,,,,,7,2,FALSE,0,68
+2022,June,SUV Medium < $60k,FALSE,Honda,CR-V,62,,,,,,,,,1,0,FALSE,0,63
+2022,June,SUV Medium < $60k,FALSE,Hyundai,Tucson,99,,7,,,,,,,15,1,FALSE,0,121
+2022,June,SUV Medium < $60k,FALSE,Jeep,Cherokee,,,,,,,,,,3,3,TRUE,1,3
+2022,June,SUV Medium < $60k,FALSE,Kia,Sportage,98,,,,20,,,,3,17,2,FALSE,0,138
+2022,June,SUV Medium < $60k,FALSE,Mazda,CX-5,138,,,,,,,,,34,14,FALSE,0,172
+2022,June,SUV Medium < $60k,FALSE,MG,HS,89,,,,32,,,,,37,17,FALSE,0,158
+2022,June,SUV Medium < $60k,FALSE,Mitsubishi,Outlander,54,,,,10,2,,,34,38,2,FALSE,0,138
+2022,June,SUV Medium < $60k,FALSE,Nissan,X-Trail,25,,,,,,,,6,5,1,FALSE,0,36
+2022,June,SUV Medium < $60k,FALSE,Peugeot,3008,9,,,,,,,,,7,6,FALSE,0,16
+2022,June,SUV Medium < $60k,FALSE,Peugeot,5008,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,SUV Medium < $60k,FALSE,Renault,Koleos,21,,,,,,,,,7,6,FALSE,0,28
+2022,June,SUV Medium < $60k,FALSE,Skoda,Karoq,5,,,,,,,,,5,3,FALSE,0,10
+2022,June,SUV Medium < $60k,FALSE,Subaru,Forester,45,,,,,,,,1,11,0,FALSE,0,58
+2022,June,SUV Medium < $60k,FALSE,Toyota,RAV4,129,,,,2,1,,,4,21,3,FALSE,0,157
+2022,June,SUV Medium < $60k,FALSE,Volkswagen,Tiguan,7,,,,,,,,,4,1,FALSE,0,11
+2022,June,SUV Medium > $60k,FALSE,Audi,Q5,13,,,,,,,,,12,6,FALSE,0,25
+2022,June,SUV Medium > $60k,FALSE,BMW,X3,35,,,,,,,,,10,10,TRUE,1,45
+2022,June,SUV Medium > $60k,FALSE,BMW,X4,6,,,,,,,,,2,2,TRUE,1,8
+2022,June,SUV Medium > $60k,FALSE,Genesis,GV70,9,,,,,,,,,4,0,FALSE,0,13
+2022,June,SUV Medium > $60k,FALSE,Hyundai,Ioniq,4,,,,,,,,,1,0,FALSE,0,5
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Discovery Sport,1,,,,,,,,,3,1,FALSE,0,4
+2022,June,SUV Medium > $60k,FALSE,Land Rover,Range Rover Evoque,6,,,,,,,,,3,1,FALSE,0,9
+2022,June,SUV Medium > $60k,FALSE,Lexus,Lexus NX,12,,,,,,,,,8,4,FALSE,0,20
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,EQC,,,,,,,,,,2,0,FALSE,0,2
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLB-Class,5,,,,,,,,,3,0,FALSE,0,8
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLC-Class Coupe,5,,,,,,,,,7,0,FALSE,0,12
+2022,June,SUV Medium > $60k,FALSE,Mercedes-Benz,GLC-Class Wagon,12,,,,,,,,,8,0,FALSE,0,20
+2022,June,SUV Medium > $60k,FALSE,Porsche,Macan,45,,,,,,,,,7,7,TRUE,1,52
+2022,June,SUV Medium > $60k,FALSE,Volvo,XC60,20,,,,,,,,,42,19,FALSE,0,62
+2022,June,SUV Large < $70k,FALSE,Ford,Everest,16,,,,,,,,,12,1,FALSE,0,28
+2022,June,SUV Large < $70k,FALSE,Hyundai,Palisade,25,,4,,,,,,,8,2,FALSE,0,37
+2022,June,SUV Large < $70k,FALSE,Hyundai,Santa Fe,24,,1,,,1,,,,7,0,FALSE,0,33
+2022,June,SUV Large < $70k,FALSE,Isuzu,MU-X,32,,,,,,1,,,14,1,FALSE,0,47
+2022,June,SUV Large < $70k,FALSE,Jeep,Grand Cherokee,10,,,,,,,,1,8,8,TRUE,1,19
+2022,June,SUV Large < $70k,FALSE,Jeep,Wrangler,18,,,,,,,,,9,8,FALSE,0,27
+2022,June,SUV Large < $70k,FALSE,Kia,Sorento,17,,,,,,,,1,7,0,FALSE,0,25
+2022,June,SUV Large < $70k,FALSE,LDV,D90,11,,,,,,,,21,22,0,FALSE,0,54
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-8,42,,,,,,,,,10,5,FALSE,0,52
+2022,June,SUV Large < $70k,FALSE,Mazda,CX-9,22,,,,,,,,,16,2,FALSE,0,38
+2022,June,SUV Large < $70k,FALSE,Mitsubishi,Pajero Sport,24,,,,,,,,21,24,4,FALSE,0,69
+2022,June,SUV Large < $70k,FALSE,Skoda,Kodiaq,3,,,,,,,,,5,5,TRUE,1,8
+2022,June,SUV Large < $70k,FALSE,Ssangyong,Rexton,9,,,,,,,,2,0,0,FALSE,0,11
+2022,June,SUV Large < $70k,FALSE,Subaru,Outback,43,,,1,,,,,,11,0,FALSE,0,55
+2022,June,SUV Large < $70k,FALSE,Toyota,Fortuner,22,,,,,,,,,5,1,FALSE,0,27
+2022,June,SUV Large < $70k,FALSE,Toyota,Kluger,25,,,,3,,,,1,13,1,FALSE,0,42
+2022,June,SUV Large < $70k,FALSE,Toyota,Prado,55,,,,,,,,4,36,0,FALSE,0,95
+2022,June,SUV Large < $70k,FALSE,Volkswagen,Tiguan Allspace,9,,,,,,,,,2,2,TRUE,1,11
+2022,June,SUV Large > $70k,FALSE,Audi,e-tron,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,SUV Large > $70k,FALSE,Audi,Q7,2,,,,,,,,,10,3,FALSE,0,12
+2022,June,SUV Large > $70k,FALSE,BMW,iX,2,,,,,,,,,2,2,TRUE,1,4
+2022,June,SUV Large > $70k,FALSE,BMW,X5,26,,,,,,,,,4,4,TRUE,1,30
+2022,June,SUV Large > $70k,FALSE,BMW,X6,13,,,,,,,,,2,2,TRUE,1,15
+2022,June,SUV Large > $70k,FALSE,Jaguar,F-Pace,3,,,,,,,,,3,0,FALSE,0,6
+2022,June,SUV Large > $70k,FALSE,Kia,EV6,3,,,,,,,,,1,0,FALSE,0,4
+2022,June,SUV Large > $70k,FALSE,Land Rover,Defender,12,,,,,,,,,13,7,FALSE,0,25
+2022,June,SUV Large > $70k,FALSE,Land Rover,Range Rover Sport,9,,,,,,,,,7,0,FALSE,0,16
+2022,June,SUV Large > $70k,FALSE,Land Rover,Range Rover Velar,1,,,,,,,,,1,0,FALSE,0,2
+2022,June,SUV Large > $70k,FALSE,Lexus,Lexus RX,10,,,,,,,,,12,7,FALSE,0,22
+2022,June,SUV Large > $70k,FALSE,Maserati,Levante,8,,,,,,,,,1,1,TRUE,1,9
+2022,June,SUV Large > $70k,FALSE,Mercedes-Benz,GLE-Class Coupe,1,,,,,,,,,2,0,FALSE,0,3
+2022,June,SUV Large > $70k,FALSE,Mercedes-Benz,GLE-Class Wagon,8,,,,,,,,,8,0,FALSE,0,16
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Coupe,14,,,,,,,,,2,2,TRUE,1,16
+2022,June,SUV Large > $70k,FALSE,Porsche,Cayenne Wagen,18,,,,,,,,,6,6,TRUE,1,24
+2022,June,SUV Large > $70k,FALSE,Volkswagen,Touareg,,,,,,,,,,2,1,FALSE,0,2
+2022,June,SUV Large > $70k,FALSE,Volvo,XC90,9,,,,,,,,,5,5,TRUE,1,14
+2022,June,SUV Upper Large <$100k,FALSE,Nissan,Patrol Wagon,49,,,,,,,,1,10,2,FALSE,0,60
+2022,June,SUV Upper Large <$100k,FALSE,Toyota,Landcruiser,29,,,,1,,,,,24,1,FALSE,0,54
+2022,June,SUV Upper Large >$100k,FALSE,Aston Martin,Aston Martin DBX,1,,,,,,,,,1,1,TRUE,1,2
+2022,June,SUV Upper Large >$100k,FALSE,Audi,Q8,1,,,,,,,,,4,1,FALSE,0,5
+2022,June,SUV Upper Large >$100k,FALSE,Bentley,Bentayga,6,,,,,,,,,2,2,TRUE,1,8
+2022,June,SUV Upper Large >$100k,FALSE,BMW,X7,7,,,,,,,,,2,2,TRUE,1,9
+2022,June,SUV Upper Large >$100k,FALSE,Lamborghini,Urus,2,,,,,,,,,0,0,FALSE,0,2
+2022,June,SUV Upper Large >$100k,FALSE,Land Rover,Discovery,3,,,,,,,,,0,0,FALSE,0,3
+2022,June,SUV Upper Large >$100k,FALSE,Lexus,Lexus LX,,,,,,,,,,3,2,FALSE,0,3
+2022,June,SUV Upper Large >$100k,FALSE,Mercedes-Benz,G-Class,10,,,,,,,,,4,0,FALSE,0,14
+2022,June,SUV Upper Large >$100k,FALSE,Mercedes-Benz,GLS-Class,2,,,,,,,,,3,0,FALSE,0,5
+2022,June,SUV Upper Large >$100k,FALSE,Rolls-Royce,Cullinan,,,,,,,,,,1,1,TRUE,1,1
+2022,June,SUV,TRUE,Mitsubishi,,144,,,,21,21,,,82,90,10,FALSE,0,358
+2022,June,SUV,TRUE,Ford,,24,,,,,,,,,0,0,FALSE,0,
+2022,June,SUV,TRUE,Great Wall,,131,,,,2,,,,,14,4,FALSE,0,147
+2022,June,SUV,TRUE,Honda,,114,,,,,,,,,0,0,FALSE,0,
+2022,June,SUV,TRUE,Hyundai,,288,,29,1,40,1,,,1,39,6,FALSE,0,399
+2022,June,SUV,TRUE,Isuzu,,32,,,,,,1,,,14,1,FALSE,0,47
+2022,June,SUV,TRUE,Jeep,,31,,,,,,,,1,42,40,FALSE,0,74
+2022,June,SUV,TRUE,Kia,,228,,,,77,,,,4,34,6,FALSE,0,343
+2022,June,SUV,TRUE,Mazda,,378,,,,,,,,,93,34,FALSE,0,471
+2022,June,SUV,TRUE,MG,,301,,,,37,,,,,56,25,FALSE,0,394
+2022,June,SUV,TRUE,Nissan,,81,,,,,,,,8,20,6,FALSE,0,109
+2022,June,SUV,TRUE,Subaru,,130,,1,1,,,,,1,29,0,FALSE,0,162
+2022,June,SUV,TRUE,Suzuki,,28,,,,,,,,,6,3,FALSE,0,34
+2022,June,SUV,TRUE,Toyota,,375,,,,16,4,,,10,142,21,FALSE,0,547
+2022,June,SUV,TRUE,Volkswagen,,63,,,,,,,,1,10,4,FALSE,0,74
+2022,June,Light Buses < 20 Seats,FALSE,Mercedes-Benz,Sprinter Bus,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,Light Buses < 20 Seats,FALSE,Toyota,Hiace Bus,1,,,,14,3,,1,5,1,0,FALSE,0,25
+2022,June,Light Buses < 20 Seats,FALSE,Volkswagen,Crafter Bus,1,,,,,,,,,2,0,FALSE,0,3
+2022,June,Light Busses => 20 Seats,FALSE,Toyota,Coaster,,,,,1,,,,,0,0,FALSE,0,1
+2022,June,Vans / CC <= 2.5t,FALSE,Renault,Kangoo,2,,,,,,,,,1,0,FALSE,0,3
+2022,June,Vans / CC <= 2.5t,FALSE,Volkswagen,Caddy Van,2,,,,,,,,,0,0,FALSE,0,2
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Ford,Transit Custom,1,,,1,,,,,,3,0,FALSE,0,5
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Hyundai,Staria Load,12,,,1,2,,,,,22,1,FALSE,0,37
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,G10/G10+,1,,,,,,,,7,29,0,FALSE,0,37
+2022,June,Vans / CC 2.5t-3.5t,FALSE,LDV,V80,,,,,,,,,1,5,0,FALSE,0,6
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Mercedes-Benz,Vito Van,2,,,,,,,,,4,0,FALSE,0,6
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Mitsubishi,Express,,,,,,,,,,15,0,FALSE,0,15
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Peugeot,Expert,,,,,,,,,,3,2,FALSE,0,3
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Renault,Trafic,12,,,,,,,,1,3,1,FALSE,0,16
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Toyota,Hiace Van,13,,1,,4,,,,10,36,0,FALSE,0,64
+2022,June,Vans / CC 2.5t-3.5t,FALSE,Volkswagen,Transporter,5,,,,,,,,1,1,0,FALSE,0,7
+2022,June,PU / CC 4x2,FALSE,Ford,Ranger 4x2,,,,24,,,,,,3,0,FALSE,0,27
+2022,June,PU / CC 4x2,FALSE,GWM,Ute 4x2,4,,,,,,,,,0,0,FALSE,0,4
+2022,June,PU / CC 4x2,FALSE,Isuzu,Ute 4x2,4,,,2,,,,,,39,5,FALSE,0,45
+2022,June,PU / CC 4x2,FALSE,Mazda,BT-50 4x2,7,,,,,,,,4,25,6,FALSE,0,36
+2022,June,PU / CC 4x2,FALSE,Mitsubishi,Triton 4x2,3,,,1,,,,,5,11,0,FALSE,0,20
+2022,June,PU / CC 4x2,FALSE,Nissan,Navara 4x2,4,,,12,,,,,4,6,1,FALSE,0,26
+2022,June,PU / CC 4x2,FALSE,Toyota,Hilux 4x2,32,,1,,,,,,18,61,0,FALSE,0,112
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado,5,,,,,,,,,11,0,FALSE,0,16
+2022,June,PU / CC 4x4,FALSE,Chevrolet,Silverado HD,2,,,,,,,,,4,1,FALSE,0,6
+2022,June,PU / CC 4x4,FALSE,Ford,Ranger 4x4,78,,,10,,1,,,2,83,5,FALSE,0,174
+2022,June,PU / CC 4x4,FALSE,GWM,Ute 4x4,54,,,,,,,,,19,4,FALSE,0,73
+2022,June,PU / CC 4x4,FALSE,Isuzu,Ute 4x4,50,,,,1,,1,,3,57,4,FALSE,0,112
+2022,June,PU / CC 4x4,FALSE,Jeep,Gladiator,11,,,,,,,,,24,22,FALSE,0,35
+2022,June,PU / CC 4x4,FALSE,LDV,LDV T60/T60 MAX 4x4,7,,,,,,,,,24,0,FALSE,0,31
+2022,June,PU / CC 4x4,FALSE,Mazda,BT-50 4X4,61,1,,,,,,,4,53,9,FALSE,0,119
+2022,June,PU / CC 4x4,FALSE,Mitsubishi,Triton 4X4,66,,1,17,1,1,,,57,84,5,FALSE,0,227
+2022,June,PU / CC 4x4,FALSE,Nissan,Navara 4X4,57,,,3,,,,,15,57,8,FALSE,0,132
+2022,June,PU / CC 4x4,FALSE,RAM,1500,30,,,,,,,,,4,4,TRUE,1,34
+2022,June,PU / CC 4x4,FALSE,RAM,2500,4,,,,,,1,,,0,0,FALSE,0,5
+2022,June,PU / CC 4x4,FALSE,RAM,3500,1,,,,,,,,,0,0,FALSE,0,1
+2022,June,PU / CC 4x4,FALSE,Ssangyong,Musso/Musso XLV 4x4,9,,,,,,,,1,0,0,FALSE,0,10
+2022,June,PU / CC 4x4,FALSE,Toyota,Hilux 4x4,69,,,,50,,,,29,82,0,FALSE,0,230
+2022,June,PU / CC 4x4,FALSE,Toyota,Landcruiser PU / CC 4x4,23,,,,11,,,,1,15,0,FALSE,0,50
+2022,June,PU / CC 4x4,FALSE,Volkswagen,Amarok 4x4,26,,,,,,,,2,18,13,FALSE,0,46
+2022,June,LD 3.5t-8.0t GVM,FALSE,Fiat,Ducato,3,,,,,,,,,0,0,FALSE,0,3
+2022,June,LD 3.5t-8.0t GVM,FALSE,Ford,Transit Heavy,,,,,,,,,,3,0,FALSE,0,3
+2022,June,LD 3.5t-8.0t GVM,FALSE,Fuso,Canter LD,,,,,,,,,,9,0,FALSE,0,9
+2022,June,LD 3.5t-8.0t GVM,FALSE,Hino,LD,,,,,,,,,,10,0,FALSE,0,10
+2022,June,LD 3.5t-8.0t GVM,FALSE,Hyundai,EX4,,,,,,,,,,1,0,FALSE,0,1
+2022,June,LD 3.5t-8.0t GVM,FALSE,Isuzu,N-Series LD,,,,,,,,,,51,0,FALSE,0,51
+2022,June,LD 3.5t-8.0t GVM,FALSE,LDV,Deliver 9,4,,,,,,,,1,15,0,FALSE,0,20
+2022,June,LD 3.5t-8.0t GVM,FALSE,Mercedes-Benz,Sprinter,2,,,,,,,,,7,0,FALSE,0,9
+2022,June,LD 3.5t-8.0t GVM,FALSE,Renault,Master,5,,,,,,,,1,5,0,FALSE,0,11
+2022,June,LD 3.5t-8.0t GVM,FALSE,Volkswagen,Crafter,8,,,,,,,,,1,0,FALSE,0,9
+2022,June,Commercial,TRUE,Mitsubishi,,69,,1,18,1,1,,,62,110,5,FALSE,0,262
+2022,June,Commercial,TRUE,Ford,,79,,,35,,1,,,2,92,5,FALSE,0,209
+2022,June,Commercial,TRUE,Great Wall,,58,,,,,,,,,19,4,FALSE,0,77
+2022,June,Commercial,TRUE,Hyundai,,12,,,1,2,,,,,22,1,FALSE,0,37
+2022,June,Commercial,TRUE,Isuzu,,54,,,2,1,,1,,3,96,9,FALSE,0,157
+2022,June,Commercial,TRUE,Jeep,,11,,,,,,,,,24,22,FALSE,0,35
+2022,June,Commercial,TRUE,Mazda,,68,1,,,,,,,8,78,15,FALSE,0,155
+2022,June,Commercial,TRUE,Nissan,,61,,,15,,,,,19,63,9,FALSE,0,158
+2022,June,Commercial,TRUE,Toyota,,138,,2,,80,3,,1,63,195,0,FALSE,0,482
+2022,June,Commercial,TRUE,Volkswagen,,42,,,,,,,,3,22,13,FALSE,0,67
+2022,June,Total Market,TRUE,Mitsubishi,,219,,1,18,25,22,,,144,200,15,FALSE,0,629
+2022,June,Total Market,TRUE,Ford,,120,,,35,,47,,,2,114,15,FALSE,0,318
+2022,June,Total Market,TRUE,Great Wall,,189,,,,2,,,,,33,8,FALSE,0,224
+2022,June,Total Market,TRUE,Honda,,132,,,,,,,,,2,0,FALSE,0,134
+2022,June,Total Market,TRUE,Hyundai,,474,,36,12,60,1,,,1,125,11,FALSE,0,709
+2022,June,Total Market,TRUE,Isuzu,,86,,,2,1,,2,,3,110,10,FALSE,0,204
+2022,June,Total Market,TRUE,Jeep,,42,,,,,,,,1,66,62,FALSE,0,109
+2022,June,Total Market,TRUE,Kia,,417,,1,,176,,,,21,59,11,FALSE,0,674
+2022,June,Total Market,TRUE,Mazda,,525,,,,,,,,8,191,60,FALSE,0,725
+2022,June,Total Market,TRUE,MG,,456,,,,55,,1,,,83,29,FALSE,0,595
+2022,June,Total Market,TRUE,Nissan,,144,,,15,,,,,27,83,15,FALSE,0,269
+2022,June,Total Market,TRUE,Subaru,,159,,1,1,,,,,1,44,0,FALSE,0,206
+2022,June,Total Market,TRUE,Suzuki,,96,,,,,,,,,19,7,FALSE,0,115
+2022,June,Total Market,TRUE,Toyota,,641,,2,,123,9,,1,79,373,34,FALSE,0,1228
+2022,June,Total Market,TRUE,Volkswagen,,134,,,,,,,,4,36,19,FALSE,0,174
