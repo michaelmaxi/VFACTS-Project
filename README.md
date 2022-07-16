@@ -1,9 +1,10 @@
 # VFACTS Project
 
-A fun project to see what i can do with VFACTS 2022 June Data.  What insights can be gained from this data that can help existing Queensland Dealerships
+A fun project to see what insights can be gained from the VFACTS 2022 June Data.  
 
-Using existing skills & Information gained from **Google Data Analystics Professional Certificate**
-See the [Slide Show](https://docs.google.com/presentation/d/1F33Ip4VhSetuOIx1nLmigVNIjm1pyRSNarVAQBx21hg/edit?usp=sharing)
+**Insights to share with QLD Dealers -->** [Slide Show](https://docs.google.com/presentation/d/1F33Ip4VhSetuOIx1nLmigVNIjm1pyRSNarVAQBx21hg/edit?usp=sharing)
+
+I used my existing skills & Information gained from **Google Data Analystics Professional Certificate**
 
 *What did I do - Extracted Data from *.PDF file / Cleaned the data / Verified / Analysed *
 
